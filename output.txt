@@ -1,0 +1,1350 @@
+
+
+Пророчество — Path of Exile Wiki
+document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Пророчество","wgTitle":"Пророчество","wgCurRevisionId":498145,"wgRevisionId":498145,"wgArticleId":24788,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Страницы, для которых превышен допустимый размер включаемых шаблонов","Базовые предметы","Страницы с неработающими файловыми ссылками","Пророчества"],"wgBreakFrames":false,"wgPageContentLanguage":"ru","wgPageContentModel":"wikitext","wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgMonthNamesShort":["","янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"],"wgRelevantPageName":"Пророчество","wgRelevantArticleId":24788,"wgRequestId":"512b603b961cc0ac","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgNoExternals":false,"wgArticleInterlangList":["en:Prophecy"],"wikiaPageType":"article","isDarkTheme":true,"wgVisualEditor":{"pageLanguageCode":"ru","pageLanguageDir":"ltr","pageVariantFallbacks":"ru","usePageImages":true,"usePageDescriptions":false},"wgIsTestModeEnabled":false,"wgEnableLightboxExt":true,"wgCargoMapClusteringMinimum":80,"wgCargoMonthNames":["январь","февраль","март","апрель","май","июнь","июль","август","сентябрь","октябрь","ноябрь","декабрь"],"wgCargoMonthNamesShort":["янв","фев","мар","апр","май","июн","июл","авг","сен","окт","ноя","дек"],"wgCargoWeekDays":["воскресенье","понедельник","вторник","среда","четверг","пятница","суббота"],"wgCargoWeekDaysShort":["Вс","Пн","Вт","Ср","Чт","Пт","Сб"],"wgPopupsReferencePreviews":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgEnablePopups":false,"wgIsTestWiki":false,"wgMFDisplayWikibaseDescriptions":{"search":false,"nearby":false,"watchlist":false,"tagline":false},"wgCollapsibleVectorEnabledModules":{"collapsiblenav":true,"experiments":true},"egMapsScriptPath":"/ru/extensions/Maps/","egMapsDebugJS":false,"egMapsAvailableServices":["leaflet","googlemaps3"],"egMapsLeafletLayersApiKeys":{"MapBox":"","MapQuestOpen":"","Thunderforest":"","GeoportailFrance":""},"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false,"wgCodeMirrorEnabled":true,"egFacebookAppId":"112328095453510","comscoreKeyword":"wikiacsid_games","quantcastLabels":"","wgCategorySelect":{"defaultNamespace":"Категория","defaultNamespaces":"Category|Категория"},"wgEnableDiscussions":false,"isWikiaOrg":false,"viewTrackUrlPrefix":"https://beacon.wikia-services.com/__track/view?c=2293496\u0026lc=ru\u0026lid=254\u0026x=pathofexile_ru_gamepedia\u0026s=ucp_desktop\u0026mobile_theme=fandom-dark\u0026rollout_tracking=ucp","wgEnableHydraFeatures":true,"wgEnableWikiaBarExt":true,"wgEnableWikiaBarAds":true,"wgWikiaBarMainLanguages":["de","en","es","fr"],"wgPageLanguageHasWordBreaks":true,"personalizedRecommendationsMessage":"Рекомендуем для вас","isGamepedia":true,"wgPerformanceMonitoringSamplingFactor":10,"wgPerformanceMonitoringEndpointUrl":"https://beacon.wikia-services.com/__track/special/performance_metrics?w=2293496\u0026lc=ru\u0026d=pathofexile_ru_gamepedia\u0026s=ucp_desktop\u0026u=0\u0026i=sjc-prod\u0026a=https%3A%2F%2Fpathofexile.fandom.com%2Fru%2Fwiki%2F%25D0%259F%25D1%2580%25D0%25BE%25D1%2580%25D0%25BE%25D1%2587%25D0%25B5%25D1%2581%25D1%2582%25D0%25B2%25D0%25BE","wgSoftwareVersion":"release-313.001@release-313.001\n","wgRailModuleList":["Fandom\\FandomDesktop\\Rail\\PopularPagesModuleService"],"wgRailModuleParams":[],"wgSitenoticeId":0});mw.loader.state({"site.styles":"ready","noscript":"ready","user.styles":"ready","site":"ready","user.options":"loading","user.tokens":"loading","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.staffSig.css":"ready","vendor.bootstrap.popover.css":"ready","ext.fandom.bannerNotificationsFandomDesktop.css":"ready","ext.fandom.DesignSystem.GlobalNavigation.brand.default.css":"ready","ext.fandom.DesignSystem.brand.dark.css":"ready","ext.fandom.DesignSystem.css":"ready","ext.fandom.quickBar.css":"ready","ext.fandom.UserPreferencesV2.css":"ready","ext.fandom.CreatePage.css":"ready","ext.fandom.Thumbnails.css":"ready","skin.fandomdesktop.FanFeed.css":"ready","skin.fandomdesktop.GlobalNavigation.css":"ready","ext.fandom.ArticleInterlang.css":"ready","ext.fandom.SearchExperiment.css":"ready","skin.fandomdesktop.font.RobotoSlab.css":"ready","skin.fandomdesktop.css":"ready","ext.fandomVideo.css":"ready","skin.fandomdesktop.rail.popularPages.css":"ready","skin.fandomdesktop.rail.css":"ready","ext.fandom.sitenotice.desktop.css":"ready","ext.social.styles":"ready"});mw.loader.implement("user.options@1cm6q67",function($,jQuery,require,module){/*@nomin*/mw.user.options.set({"variant":"ru"});
+});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.scribunto.logs","mediawiki.page.startup","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.fandom.FacebookTags.js","ext.fandom.ae.babTracking.js","ext.fandom.ae.consentQueue.js","ext.fandom.AnalyticsEngine.comscore.js","ext.fandom.AnalyticsEngine.quantcast.js","ext.categorySelect.js","ext.categorySelectFandomDesktop.css","ext.fandom.bannerNotifications.js","ext.fandom.DesignSystem.fandomdesktop.js","ext.fandom.HeartbeatTracking.js","ext.fandom.Track.pageview.js","ext.fandom.wikiaBar.js","ext.fandom.ContentReview.legacyLoaders.js","ext.fandom.ContentReview.jsReload.js","ext.fandom.site","ext.fandom.ImportJs","ext.fandom.ContentReviewTestModeMessages","ext.fandom.UncrawlableUrl.anchors.js","ext.fandom.CreatePage.js","ext.fandom.Thumbnails.js","ext.crusher.tables","ext.popups","skin.fandomdesktop.FanFeed.js","skin.fandomdesktop.Notifications.messages","skin.fandomdesktop.Search.messages","ext.fandom.FandomEmbedVideo.js","ext.fandom.WikiaInYourLang.js","ext.fandom.performanceMonitoring.js","ext.fandom.GalleryTracking.js","ext.fandom.SearchExperiment.js","skin.fandomdesktop.js","skin.fandomdesktop.messages","skin.fandomdesktop.rail.toggle.js","skin.fandomdesktop.rail.lazyRail.js","ext.fandom.sitenotice.desktop.js","ext.social.scripts","ext.fandom.Lightbox.js"];mw.loader.load(RLPAGEMODULES);});
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+var _plc={"p":"mw","pVar":"fandomdesktop","pCat":"games","pId":"2293496","pg":"article","pgId":"24788","pgLang":"ru","adTags":{"sex":["m"],"gnre":["fantasy","free2play","rpg","war","strategy","action","indie","fighting"],"theme":["heroes","sword","mature","dragon","magic"],"media":["web","games"],"pub":["tencent"],"age":["45-54","yadult","35-44","25-34","18-34","18-24"],"pform":["pc","mac","xboxone","ps4"]},"time":0}; var _ulc={"id":"0","lang":"ru"}; _plc.time=Date.now();
+
+
+var ads={"context":{"opts":{"adEngineVersion":"v98.1.0","enableNativeAds":true,"enableAdTagManagerBackend":true,"isGamepedia":true,"pageType":"all_ads","platformName":"fandomdesktop"},"targeting":{"esrbRating":"teen","isUcp":true,"mappedVerticalName":"gaming","pageArticleId":24788,"pageIsArticle":true,"pageName":"Пророчество","pageType":"article","wikiDbName":"pathofexile_ru_gamepedia","wikiId":2293496,"wikiLanguage":"ru","wikiVertical":"games","adTagManagerTags":{"sex":["m"],"gnre":["fantasy","free2play","rpg","war","strategy","action","indie","fighting"],"theme":["heroes","sword","mature","dragon","magic"],"media":["web","games"],"pub":["tencent"],"age":["45-54","yadult","35-44","25-34","18-34","18-24"],"pform":["pc","mac","xboxone","ps4"]}}},"consentQueue":[]};
+
+	// Install temporary stub until full CMP will be ready
+	if (typeof window.__tcfapi === 'undefined') {
+		// @iabtcf/stub v1.3.1
+		"use strict";function _typeof(t){return(_typeof="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(t){return typeof t}:function(t){return t&&"function"==typeof Symbol&&t.constructor===Symbol&&t!==Symbol.prototype?"symbol":typeof t})(t)}!function(){var t=function(){var t,e,o="__tcfapiLocator",n=[],r=window,a=r;for(;a;){try{if(a.frames[o]){t=a;break}}catch(t){}if(a===r.top)break;a=r.parent}t||(!function t(){var e=r.document,n=!!r.frames[o];if(!n)if(e.body){var a=e.createElement("iframe");a.style.cssText="display:none",a.name=o,e.body.appendChild(a)}else setTimeout(t,5);return!n}(),r.__tcfapi=function(){for(var t=arguments.length,o=new Array(t),r=0;r<t;r++)o[r]=arguments[r];if(!o.length)return n;"setGdprApplies"===o[0]?o.length>3&&2===parseInt(o[1],10)&&"boolean"==typeof o[3]&&(e=o[3],"function"==typeof o[2]&&o[2]("set",!0)):"ping"===o[0]?"function"==typeof o[2]&&o[2]({gdprApplies:e,cmpLoaded:!1,cmpStatus:"stub"}):n.push(o)},r.addEventListener("message",(function(t){var e="string"==typeof t.data,o={};if(e)try{o=JSON.parse(t.data)}catch(t){}else o=t.data;var n="object"===_typeof(o)?o.__tcfapiCall:null;n&&window.__tcfapi(n.command,n.version,(function(o,r){var a={__tcfapiReturn:{returnValue:o,success:r,callId:n.callId}};t&&t.source&&t.source.postMessage&&t.source.postMessage(e?JSON.stringify(a):a,"*")}),n.parameter)}),!1))};"undefined"!=typeof module?module.exports=t:t()}();
+	}
+
+
+
+
+
+    window.RLQ = window.RLQ || [];
+
+    window.RLQ.push(function () {
+        function genUID() {
+            return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+                var r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+
+                return v.toString(16);
+            });
+        }
+
+        function getCookieValue(cookieName) {
+            var cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+
+            return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+        }
+
+        var beacon = getCookieValue('wikia_beacon_id');
+        var sessionId = getCookieValue('tracking_session_id');
+        var pvNumber = getCookieValue('pv_number');
+        var pvNumberGlobal = getCookieValue('pv_number_global');
+        var now = Date.now();
+        var expireDate = new Date(now + 1000 * 60 * 30);
+        var path = mw.config.get('wgScriptPath') || '/';
+
+    	var b2 = getCookieValue('_b2');
+    	var b2Exp = new Date();
+    	b2Exp.setFullYear(b2Exp.getFullYear() + 2);
+
+        mw.config.set({
+            sessionId: sessionId ? sessionId : genUID(),
+            pvNumber: pvNumber ? parseInt(pvNumber, 10) + 1 : 1,
+            pvNumberGlobal: pvNumberGlobal ? parseInt(pvNumberGlobal, 10) + 1 : 1,
+            pvUID: genUID(),
+            beaconId: beacon,
+            b2: b2
+        });
+
+        const secureCookie = 'Secure; SameSite=None;';
+
+        document.cookie = 'tracking_session_id=' + mw.config.get('sessionId') + '; expires=' + expireDate.toGMTString() +
+                ';domain=' + mw.config.get('wgCookieDomain') + '; path=' + mw.config.get('wgCookiePath') + ';' + secureCookie;
+        document.cookie = 'pv_number=' + mw.config.get('pvNumber') + '; expires=' + expireDate.toGMTString() +
+                '; path=' + path + ';' + secureCookie;
+        document.cookie = 'pv_number_global=' + mw.config.get('pvNumberGlobal') + '; expires=' + expireDate.toGMTString() +
+                ';domain=' + mw.config.get('wgCookieDomain') + '; path=' + mw.config.get('wgCookiePath') + ';' + secureCookie;
+
+         if (b2) {
+         	document.cookie = '_b2=' + b2 + '; expires=' + b2Exp.toGMTString() +
+                 ';domain=' + mw.config.get('wgCookieDomain') + '; path=' + mw.config.get('wgCookiePath') + ';' + secureCookie;
+         }
+
+        window.fandomTrackingCookiesSet = true;
+    });
+
+
+
+
+	const useMaxDefaultContentWidth = Boolean();
+
+	const defaultContentWidth = useMaxDefaultContentWidth ? 'expanded' : 'collapsed';
+	const contentWidthPreference = localStorage.getItem('contentwidth') || defaultContentWidth;
+
+	if ( contentWidthPreference === 'expanded' ) {
+		document.documentElement.classList.add('is-content-expanded');
+	}
+
+
+
+	(function trackFCPPageView(config) {
+		let beacon;
+		let sessionId;
+		let pvNumber;
+		let pvNumberGlobal;
+
+		function readCookies() {
+			beacon = getCookieValue('wikia_beacon_id');
+			sessionId = getCookieValue('tracking_session_id') || genUID();
+			pvNumber = getCookieValue('pv_number') || 0;
+			pvNumberGlobal = getCookieValue('pv_number_global') || 0;
+		}
+
+		function getCookieValue(cookieName) {
+			const cookieSplit = ('; ' + document.cookie).split('; ' + cookieName + '=');
+
+			return cookieSplit.length === 2 ? cookieSplit.pop().split(';').shift() : null;
+		}
+
+		function genUID() {
+			return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function (c) {
+				const r = Math.random() * 16 | 0, v = c === 'x' ? r : (r & 0x3 | 0x8);
+
+				return v.toString(16);
+			});
+		}
+
+		function getEventParams() {
+			let computedPVNumber = pvNumber ? parseInt(pvNumber, 10) : 0;
+			let computedPVNumberGlobal = pvNumberGlobal ? parseInt(pvNumberGlobal, 10) : 0;
+
+			if (!window.fandomTrackingCookiesSet) {
+				computedPVNumber += 1;
+				computedPVNumberGlobal += 1;
+			}
+
+			const params = {
+				beacon: beacon,
+				cb: new Date().valueOf(),
+				session_id: sessionId,
+				pv_unique_id: genUID(),
+				pv_number: computedPVNumber,
+				pv_number_global: computedPVNumberGlobal,
+				url: window.location.href,
+				c: config.wgCityId,
+				a: config.wgArticleId,
+				lc: config.wgContentLanguage,
+				x: config.wgDBname,
+				s: (
+					config.skin === 'fandommobile' ? 'ucp_mobile' :
+					config.skin === 'fandomdesktop' ? 'ucp_desktop' :
+					config.skin
+				),
+				n: config.wgNamespaceNumber,
+			};
+
+			if (document.referrer) {
+				params.r = encodeURIComponent(document.referrer);
+			}
+
+			return params;
+		}
+
+		function setCookies() {
+			if (!getCookieValue('tracking_session_id')) {
+				const expireDate = new Date(Date.now() + 1000 * 60 * 30);
+
+				document.cookie = 'tracking_session_id=' + sessionId + '; expires=' + expireDate.toGMTString() +
+					';domain=' + config.wgCookieDomain + '; path=' + config.wgCookiePath + ';';
+			}
+		}
+
+		function track() {
+			const requestUrl = 'https://beacon.wikia-services.com/__track/special/fcp_pageview';
+
+			readCookies();
+			setCookies();
+
+			const params = getEventParams();
+			const queryParams = Object.keys(params)
+					.map((key) => encodeURIComponent(key) + '=' + encodeURIComponent(params[key]))
+					.join('&');
+
+			fetch(`${requestUrl}?${queryParams}`, { mode: 'no-cors', keepalive: true });
+		}
+
+		requestAnimationFrame(() => {
+			requestAnimationFrame(() => {
+				track();
+			})
+		})
+	})({"wgCookieDomain":".fandom.com","wgCookiePath":"\/","wgScriptPath":"\/ru","wgCityId":2293496,"wgDBname":"pathofexile_ru_gamepedia","wgArticleId":24788,"wgContentLanguage":"ru","wgNamespaceNumber":0,"skin":"fandomdesktop"});
+
+
+
+
+
+
+	Path of Exile WikiWiki поддерживается сообществом, поэтому подумайте над тем, чтобы внести свой вклад.
+ПОДРОБНЕЕ	
+		
+	
+
+	
+
+
+		Path of Exile Wiki
+	
+
+	
+					
+			
+			
+				
+										Исследовать
+				
+							
+			
+					
+													
+			
+			
+								Заглавная
+			
+		
+														
+			
+			
+								Все страницы
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										навигация
+				
+							
+			
+					
+													
+			
+			
+								Заглавная страница
+			
+		
+														
+			
+			
+								Портал сообщества
+			
+		
+														
+			
+			
+								Свежие правки
+			
+		
+														
+			
+			
+								Случайная статья
+			
+		
+														
+			
+			
+								Запросы к администраторам
+			
+		
+														
+			
+			
+								Известные проблемы
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Фан-зона
+				
+							
+			
+					
+													
+			
+			
+								Торговая площадка
+			
+		
+														
+			
+			
+								Программы сообщества
+			
+		
+														
+			
+			
+								Сайты сообщества
+			
+		
+														
+			
+			
+								PoE Discord (#wiki)
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Gamepedia
+				
+							
+			
+					
+													
+			
+			
+								Техподдержка Gamepedia
+			
+		
+														
+			
+			
+								Сообщить о недопустимой рекламе
+			
+		
+														
+			
+			
+								Справочная Gamepedia
+			
+		
+														
+			
+			
+								Связаться с нами
+			
+		
+												
+			
+		
+				
+
+	
+				
+					
+			
+					
+		
+
+
+
+	
+		
+			
+								FANDOM
+			
+
+							
+								
+			
+			
+
+			
+			
+							
+			
+				Игры			
+		
+			
+			
+							
+			
+				Кино			
+		
+			
+			
+							
+			
+				ТВ			
+		
+	
+			
+			
+				
+									
+				
+					Вики				
+			
+			
+				
+											
+							
+								Исследуйте вики							
+						
+											
+							
+								Вики Сообщества							
+						
+									
+			
+		
+	
+			
+			
+							
+			
+				Создать вики			
+		
+	
+		
+	
+
+	
+							
+
+	
+		
+					
+	
+	
+		
+			Регистрация		
+		
+			Нет учётной записи?		
+		
+		
+			Войти		
+	
+
+			
+
+
+	
+	
+		
+		Advertisement
+	
+	
+	
+		
+	
+					
+				
+			
+				
+			
+				
+					Path of Exile Wiki				
+																						
+	
+	
+	
+	
+
+							
+			
+				55 571 страница			
+			
+				
+					
+			
+					
+		
+		
+		
+
+	
+					
+			
+			
+				
+										Исследовать
+				
+							
+			
+					
+													
+			
+			
+								Заглавная
+			
+		
+														
+			
+			
+								Все страницы
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										навигация
+				
+							
+			
+					
+													
+			
+			
+								Заглавная страница
+			
+		
+														
+			
+			
+								Портал сообщества
+			
+		
+														
+			
+			
+								Свежие правки
+			
+		
+														
+			
+			
+								Случайная статья
+			
+		
+														
+			
+			
+								Запросы к администраторам
+			
+		
+														
+			
+			
+								Известные проблемы
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Фан-зона
+				
+							
+			
+					
+													
+			
+			
+								Торговая площадка
+			
+		
+														
+			
+			
+								Программы сообщества
+			
+		
+														
+			
+			
+								Сайты сообщества
+			
+		
+														
+			
+			
+								PoE Discord (#wiki)
+			
+		
+												
+			
+		
+						
+			
+			
+				
+										Gamepedia
+				
+							
+			
+					
+													
+			
+			
+								Техподдержка Gamepedia
+			
+		
+														
+			
+			
+								Сообщить о недопустимой рекламе
+			
+		
+														
+			
+			
+								Справочная Gamepedia
+			
+		
+														
+			
+			
+								Связаться с нами
+			
+		
+												
+			
+		
+				
+
+	
+
+		
+			
+				
+					
+						
+																												
+													
+															
+											
+				
+				
+	
+		
+			
+									
+
+	в:
+	Пророчества	
+											
+										
+
+	
+		
+			русский		
+		
+			
+									
+						English
+					
+							
+		
+	
+
+					
+		
+			
+				
+					Пророчество				
+																
+			
+				
+				
+									
+												Править					
+				
+				
+									
+						
+													
+						
+							
+																	
+										
+											Править код										
+									
+																	
+										
+											История										
+									
+																	
+										
+											Обсуждение (19)										
+									
+															
+						
+					
+					
+						window.RLQ = window.RLQ || [];
+						window.RLQ.push(() => {
+							mw.config.set('wgPageActions', {"1":{"class":" collapsible","text":"\u041f\u0440\u0430\u0432\u0438\u0442\u044c \u043a\u043e\u0434","href":"\/ru\/wiki\/%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE?action=edit","primary":true,"id":"ca-edit","accesskey":"e","data-tracking":"ca-edit-dropdown"},"3":{"class":false,"text":"\u0418\u0441\u0442\u043e\u0440\u0438\u044f","href":"\/ru\/wiki\/%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE?action=history","id":"ca-history","accesskey":"h","data-tracking":"ca-history-dropdown"},"11":{"class":"","text":"\u041e\u0431\u0441\u0443\u0436\u0434\u0435\u043d\u0438\u0435 (19)","href":"\/ru\/wiki\/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5:%D0%9F%D1%80%D0%BE%D1%80%D0%BE%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE","exists":true,"primary":true,"context":"talk","rel":"discussion","id":"ca-talk","accesskey":"t","data-tracking":"ca-talk-dropdown"}});
+						})
+					
+											
+		
+	
+				
+															
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6XD44P" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+
+
+
+Чтобы узнать о лиге, см. Лига Пророчество.
+
+ПророчествоНажмите ПКМ, чтобы добавить это пророчество вашему персонажу.ПолучениеУровень выпадения: 1Выпадение ограниченоПредложение торговца1x Обрывок свиткаMetadataКласс предмета: ВалютаMetadata ID: Metadata/Items/Currency/CurrencyItemisedProphecy 
+Пророчество - это предсказание о событиях, которые произойдут с вашим героем в ближайшем будущем. Услышать пророчество о себе можно у Навали, если заплатить ей Серебряной монетойСеребряная монетаРазмер стопки: 30Монета для покупки пророчества у Навали.Для разделения щелкните мышкой с зажатой клавишей Shift.. Пророчества касаются совершенно разных аспектов и имеют различные условия. Некоторые пророчества образуют целые последовательности.
+Также если вы не хотите, чтобы Пророчество возымело силу над вами прямо здесь и сейчас, то за дополнительную плату в несколько Серебряных монетСеребряная монетаРазмер стопки: 30Монета для покупки пророчества у Навали.Для разделения щелкните мышкой с зажатой клавишей Shift. вы можете заключить Пророчество в предмет. Вы сможете активировать его позже, или обменять его другим игрокам. 
+Если условия пророчеств не противоречат друг другу, то они могут исполнятся одновременно.
+
+Содержание
+
+1 О Мастерах
+2 О крафте
+3 Об уникальных предметах
+4 Буря
+5 О встречах
+
+5.1 Награда: Уникальный предмет
+5.2 Награда: Валюта
+5.3 Награда: Ничего
+5.4 Награда: Прочее
+
+
+6 Цепочки пророчеств
+7 Отключенные пророчества
+8 История изменений
+
+
+
+О Мастерах[]
+ПредметНаградаЗадачаСтоимостьпечатиМастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Джун.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Эйнара.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Альвы.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Нико.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Заны.3
+О крафте[]
+ПредметНаградаЗадачаСтоимостьпечатиДважды зачарованныеВозможность дважды использовать Машину зачарований.Пройти Лабиринт любой сложности.1Золотые рукиПредмет станет с пятью связанными гнёздами.Используйте Сферу златокузнецаСфера златокузнецаРазмер стопки: 20Перековывает предмет, изменяя число гнёздЩелкните правой кнопкой мыши по этому предмету и затем левой по предмету с гнёздами. Значение качества предмета потребляется, чтобы увеличить шансы на получение дополнительных гнёзд.Для разделения щелкните мышкой с зажатой клавишей Shift. на нательный доспех или двуручное оружие.3Объединяющая судьбаПредмет станет с шестью связанными гнёздами.Используйте Сферу златокузнецаСфера златокузнецаРазмер стопки: 20Перековывает предмет, изменяя число гнёздЩелкните правой кнопкой мыши по этому предмету и затем левой по предмету с гнёздами. Значение качества предмета потребляется, чтобы увеличить шансы на получение дополнительных гнёзд.Для разделения щелкните мышкой с зажатой клавишей Shift. на нательный доспех или двуручное оружие.1Попутный ветерПредмет станет волшебным со свойством скорости передвижения.Используйте Сферу превращенияСфера превращенияРазмер стопки: 40Улучшает обычный предмет до волшебногоЩелкните правой кнопкой мыши по этому объекту, а затем левой по обычному предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift. на любой обычной обуви.3Похвальная стойкостьПредмет станет волшебным со свойством сопротивления.Используйте Сферу превращенияСфера превращенияРазмер стопки: 40Улучшает обычный предмет до волшебногоЩелкните правой кнопкой мыши по этому объекту, а затем левой по обычному предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift. на любом обычном кольце, амулете или щите.3Удушающие побегиКарта станет волшебной со свойством удушенияудушенияСуффикс20% увеличение количества найденных предметов в этой области15% повышение редкости найденных предметов в этой областиСкорость восстановления здоровья и энергетического щита игроков на 20% меньше15% увеличение размера групп монстров.Используйте Сферу превращенияСфера превращенияРазмер стопки: 40Улучшает обычный предмет до волшебногоЩелкните правой кнопкой мыши по этому объекту, а затем левой по обычному предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift. на обычной карте.3Умелый проводникКачество карты станет 20%.Использовать Резец картографаРезец картографаРазмер стопки: 20Повышает качество картыЩелкните правой кнопкой мыши по этому предмету и затем левой по карте, чтобы использовать. Имеет большее влияние на менее редких картах. Наивысшее качество 20%.Для разделения щелкните мышкой с зажатой клавишей Shift. на любой карте.3Ценное сочетаниеВ награду вы получите Сферу хаосаСфера хаосаРазмер стопки: 10Перековывает редкий предмет, наделяя новыми случайными свойствамиЩелкните правой кнопкой мыши по этому объекту, а затем левой по редкому предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift..Получите Сферу хаосаСфера хаосаРазмер стопки: 10Перековывает редкий предмет, наделяя новыми случайными свойствамиЩелкните правой кнопкой мыши по этому объекту, а затем левой по редкому предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift. сделав рецепт торговца.2
+Об уникальных предметах[]
+Каждое из этих пророчеств приводит к превращению определенного уникального предмета в его судьбоносную версию.
+Судьбоносный предмет должен быть у вас в инверторе, но до версии 3.1.0 данный предмет требовалось экипировать.
+Уровень предмета сохраняется после улучшения. Если версия предмета устаревшая, то она так же будет сохранена после улучшения, зачарование, качество будет схоронено, предмет не должен быть осквернен.
+Пророчество на получение Судьбоносного предмета так-же можно получить с помощью набора из 3 гадальных карт - Пророчество АкилаПророчество Акила3Судьбоносный уникальный предметХатанго знают много ответов на один и тот же вопрос,ибо само время - это запутанная сеть..
+
+ПредметНаградаЗадачаСтоимостьпечатиАгония в сумеркахИзменение Башмаков сумерекБашмаки сумерекЖелезные ботинкиКачество: +20%Броня: (54-61)Уклонение: (54-61)Требуется Уровень 18, 19 Сила, 19 Ловк(40-60)% повышение брони и уклонения+(20-30) к максимуму здоровья15% повышение скорости передвижения50% ускорение восстановления после оглушения и блока20% уменьшение радиуса обзора+50% к сопротивлению хаосу во время действия эффекта любого флаконаДобавляет от (15-20) до (25-30) урона хаосом к чарам и атакам во время действия эффекта любого флакона«Капля тени может смягчитьболь жалких трепыханий жизни».- Дознаватель Малигаро в Сумрачную пагубуСумрачная пагубаЖелезные ботинкиКачество: +20%Броня: (81-91)Уклонение: (81-91)Требуется Уровень 40, 19 Сила, 19 ЛовкВызывает срабатывание Преследующей пустулы 1 уровня при убийстве(120-150)% повышение брони и уклонения+(50-60) к максимуму здоровья20% повышение скорости передвижения50% ускорение восстановления после оглушения и блока20% уменьшение радиуса обзора+50% к сопротивлению хаосу во время действия эффекта любого флаконаДобавляет от (30-40) до (50-60) урона хаосом к чарам и атакам во время действия эффекта любого флакона"Если вкусишь полночь, ты можешь никогда не увидеть рассвет." - Дознаватель Мелавий.Победить Дознавателя Малигаро в Жатве в 4 акте, имея при себе Башмаки сумерекБашмаки сумерекЖелезные ботинкиКачество: +20%Броня: (54-61)Уклонение: (54-61)Требуется Уровень 18, 19 Сила, 19 Ловк(40-60)% повышение брони и уклонения+(20-30) к максимуму здоровья15% повышение скорости передвижения50% ускорение восстановления после оглушения и блока20% уменьшение радиуса обзора+50% к сопротивлению хаосу во время действия эффекта любого флаконаДобавляет от (15-20) до (25-30) урона хаосом к чарам и атакам во время действия эффекта любого флакона«Капля тени может смягчитьболь жалких трепыханий жизни».- Дознаватель Малигаро.1Багряные цветаИзменение КровопускателяКровопускательНож скорнякаКинжалКачество: +20%Физический урон: от (8.5-11.4) до (34-41.8)Шанс критического удара: 7.80%Атак в секунду: 1.45Дальность оружия: 10Требуется Уровень 5, 16 Ловк30% повышение глобального шанса критического удара(50-70)% увеличение физического уронаДобавляет от (1-2) до (3-5) физического урона+(10-15) к ловкости30% повышение шанса критического удара50% шанс наложить кровотечение при критическом ударе40% увеличение урона от атак по истекающим кровью врагам«Фальшивый поцелуй и ложные объятья, и красное вино на потемневшем платье». до Кровавый плясКровавый плясНож скорнякаКинжалКачество: +20%Физический урон: от (125.8-169.1) до (215.9-256.5)Шанс критического удара: 7.80%Атак в секунду: 1.45Дальность оружия: 10Требуется Уровень 59, 16 Ловк30% повышение глобального шанса критического удара(50-70)% увеличение физического уронаДобавляет от (70-85) до (110-118) физического урона+(10-15) к ловкости30% повышение шанса критического удара40% увеличение урона от атак по истекающим кровью врагам50% шанс наложить кровотечение при критическом удареВы получаете Багровый танец, если недавно наносили критический ударНочь продолжает танцевать, вино течёт рекой. Ты бледен телом, а душа уходит в мир иной..Победить Вицериса на Карте заросших руинКарта заросших руинУровень области: 70Уровень карты: 3Редактор тега гильдии: ]Здесь толпы кичливых людей проводили пышные обряды. В память о них остался только страх.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе КровопускательКровопускательНож скорнякаКинжалКачество: +20%Физический урон: от (8.5-11.4) до (34-41.8)Шанс критического удара: 7.80%Атак в секунду: 1.45Дальность оружия: 10Требуется Уровень 5, 16 Ловк30% повышение глобального шанса критического удара(50-70)% увеличение физического уронаДобавляет от (1-2) до (3-5) физического урона+(10-15) к ловкости30% повышение шанса критического удара50% шанс наложить кровотечение при критическом ударе40% увеличение урона от атак по истекающим кровью врагам«Фальшивый поцелуй и ложные объятья, и красное вино на потемневшем платье»..1В плену башниИзменение Болотной корягиБолотная корягаСучковатая веткаПосохКачество: +20%Физический урон: 10.8-22.8Шанс критического удара: 6.00%Атак в секунду: 1.30Дальность оружия: 13+18% шанс блокировать урон от атак с посохом в рукахРазмещённые камни усилены Ловушкой 8 уровня(40-50)% увеличение глобального урона(10-20)% увеличение максимума здоровья(10-20)% увеличение максимума маны«Если ты болотная коряга — бояться тебе  нечего»  - Старая пословица эзомитов. в Болотный сукБолотный сукСучковатая веткаПосохКачество: +20%Физический урон: 10.8-22.8Шанс критического удара: 6.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 32+18% шанс блокировать урон от атак с посохом в рукахРазмещённые камни усилены Ловушкой 16 уровняРазмещённые камни усилены Кассетными ловушками 16 уровняРазмещённые камни усилены Уроном ловушек и мин 16 уровня(40-50)% увеличение глобального урона(10-20)% увеличение максимума здоровья(10-20)% увеличение максимума маны"Если срубишь самое высокое дерево, высочайшим станет другое дерево." - Старая поговорка эзомитов.Победить Калигу, Императрицу в Персте Господнем, имея при себе Болотную корягуБолотная корягаСучковатая веткаПосохКачество: +20%Физический урон: 10.8-22.8Шанс критического удара: 6.00%Атак в секунду: 1.30Дальность оружия: 13+18% шанс блокировать урон от атак с посохом в рукахРазмещённые камни усилены Ловушкой 8 уровня(40-50)% увеличение глобального урона(10-20)% увеличение максимума здоровья(10-20)% увеличение максимума маны«Если ты болотная коряга — бояться тебе  нечего»  - Старая пословица эзомитов..1Великий вождь севераУлучшение ВеликанВеликанКлёпаный ременьТребуется Уровень 16(20-30)% увеличение длительности оглушения на врагах(25-40)% увеличение глобального физического урона+(40-50) к силе50% увеличение получаемого количества зарядов флакона+(20-25)% к сопротивлению всем стихиям, если у вас минимум 200 силыМало кто из людей отбрасывал тень большую,чем великий Мегинорд с севера. до КочевникКочевникКлёпаный ременьТребуется Уровень 48(20-30)% увеличение длительности оглушения на врагах+(40-50) к силе+(40-50) к ловкости(25-40)% увеличение глобального физического урона50% увеличение получаемого количества зарядов флакона+(20-25)% к сопротивлению всем стихиям, если у вас минимум 200 силы(40-50)% увеличение урона от атак снарядами, если у вас минимум 200 ловкостиМало кто может вести за собой людейподобно Великому Мегинорду с севера..Победить Камнеспина в Предгорье в 9 акте, пока у тебя есть ВеликанВеликанКлёпаный ременьТребуется Уровень 16(20-30)% увеличение длительности оглушения на врагах(25-40)% увеличение глобального физического урона+(40-50) к силе50% увеличение получаемого количества зарядов флакона+(20-25)% к сопротивлению всем стихиям, если у вас минимум 200 силыМало кто из людей отбрасывал тень большую,чем великий Мегинорд с севера..1Великий разум севераИзменение ВеликанаВеликанКлёпаный ременьТребуется Уровень 16(20-30)% увеличение длительности оглушения на врагах(25-40)% увеличение глобального физического урона+(40-50) к силе50% увеличение получаемого количества зарядов флакона+(20-25)% к сопротивлению всем стихиям, если у вас минимум 200 силыМало кто из людей отбрасывал тень большую,чем великий Мегинорд с севера. в ТактикаТактикКлёпаный ременьТребуется Уровень 48(20-30)% увеличение длительности оглушения на врагах+(40-50) к силе+(40-50) к интеллекту(25-40)% увеличение глобального физического урона50% увеличение получаемого количества зарядов флакона+(20-25)% к сопротивлению всем стихиям, если у вас минимум 200 силы(50-60)% повышение шанса критического удара, если у вас минимум 200 интеллектаМало кто командует войском лучше,чем Великий Мегинорд с севера..Победить Гектора Титуция, Вечного слугу в Купальнях, имея при себе ВеликанВеликанКлёпаный ременьТребуется Уровень 16(20-30)% увеличение длительности оглушения на врагах(25-40)% увеличение глобального физического урона+(40-50) к силе50% увеличение получаемого количества зарядов флакона+(20-25)% к сопротивлению всем стихиям, если у вас минимум 200 силыМало кто из людей отбрасывал тень большую,чем великий Мегинорд с севера..1Видение льда и пламениУлучшение Лёд и пламеньЛёд и пламеньКожаный капюшонКачество: +20%Уклонение: (202-222)Требуется Уровень 20, 46 Ловк(80-100)% увеличение уклонения60% повышение скорости регенерации маны+(20-30)% к сопротивлению огню+(20-30)% к сопротивлению холоду(20-30)% увеличение урона от холода, если вы недавно использовали умение огня(20-30)% увеличение урона от огня, если вы недавно использовали умение холодаОтрешись от жарких порывов,отрекись от холодных расчетов,и воздастся тебе за старания. до Морозный адМорозный адКожаный капюшонКачество: +20%Уклонение: (575-626)Требуется Уровень 60, 46 Ловк+2 к уровню размещённых камней огня+2 к уровню размещённых камней холодаРазмещённые камни усилены Холодом в огонь 30 уровня(450-500)% увеличение уклонения60% повышение скорости регенерации маны+(20-30)% к сопротивлению огню и холодуПрими своё пылающее честолюбие,прими своё замёрзшее сердцеи будешь преображён..Победить Самтера Искажённого на карте устья рекиКарта устья рекиУровень области: 82Уровень карты: 15Редактор тега гильдии: sГде из воды показывается земля, вскоре появляется жизнь.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые. , пока у тебя есть Лёд и пламеньЛёд и пламеньКожаный капюшонКачество: +20%Уклонение: (202-222)Требуется Уровень 20, 46 Ловк(80-100)% увеличение уклонения60% повышение скорости регенерации маны+(20-30)% к сопротивлению огню+(20-30)% к сопротивлению холоду(20-30)% увеличение урона от холода, если вы недавно использовали умение огня(20-30)% увеличение урона от огня, если вы недавно использовали умение холодаОтрешись от жарких порывов,отрекись от холодных расчетов,и воздастся тебе за старания..1Возросшая мощьИзменение Стержня реверберацииСтержень реверберацииВитой жезлЖезлКачество: +20%Физический урон: 14.4-44.4Шанс критического удара: 7.00%Атак в секунду: 1.30Дальность оружия: 120Требуется Уровень 24, 83 Инт(15-19)% увеличение урона от чар+2 к уровню размещённых камнейРазмещённые камни усилены Эхом магии 10 уровня+(10-30) к интеллектуЧто стоило сделать один раз, стоит сделать и другой. в Прут увеличенияПрут увеличенияВитой жезлЖезлКачество: +20%Физический урон: 14.4-44.4Шанс критического удара: 7.00%Атак в секунду: 1.30Дальность оружия: 120Требуется Уровень 36, 83 Инт(15-19)% увеличение урона от чар+2 к уровню размещённых камнейРазмещённые камни усилены Интенсивностью 10 уровняРазмещённые камни усилены Эхом магии 10 уровняРазмещённые камни усилены Контролируемым разрушением 10 уровня+(10-30) к интеллектуНикто не любит тихий вызов на бис..Победить Веру в Храме Лунарис — уровень 2 (Акт 3), Веру, Отродье в Брюхе Зверя — уровень 2 или Веру Небесную на Карте святыниКарта святыниУровень области: 72Уровень карты: 5Редактор тега гильдии: èЧёрную душу добела не отмоешь.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе Стержень реверберацииСтержень реверберацииВитой жезлЖезлКачество: +20%Физический урон: 14.4-44.4Шанс критического удара: 7.00%Атак в секунду: 1.30Дальность оружия: 120Требуется Уровень 24, 83 Инт(15-19)% увеличение урона от чар+2 к уровню размещённых камнейРазмещённые камни усилены Эхом магии 10 уровня+(10-30) к интеллектуЧто стоило сделать один раз, стоит сделать и другой..1Вопль Тёмного оратораИзменение Воплей ветраВопли ветраУсиленные поножиКачество: +20%Броня: (185-218)Требуется Уровень 33, 60 Сила(50-80)% повышение брони+(10-15)% к сопротивлению всем стихиям15% повышение скорости передвижения(10-20)% увеличение урона от стихийВы можете наложить дополнительное проклятиеНасмешки ветра, волшебный щит,  в безумье спетом их крик летит в Крик ветраКрик ветраУсиленные поножиКачество: +20%Броня: (348-403)Требуется Уровень 60, 60 Сила(200-250)% повышение брони+(10-15)% к сопротивлению всем стихиям25% повышение скорости передвижения(10-20)% увеличение урона от стихийВы можете наложить дополнительное проклятие60% увеличение области действия умений порчиРаззявлен рот, слепящий слышен вой.Обмякло тело, тёмен разум твой..Победить Доэдре Осквернительницу на Карте усыпальницыКарта усыпальницыУровень области: 81Уровень карты: 14Редактор тега гильдии: ŸЛюди рождаются и умирают. Остаются только прах и кости.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе Вопли ветраВопли ветраУсиленные поножиКачество: +20%Броня: (185-218)Требуется Уровень 33, 60 Сила(50-80)% повышение брони+(10-15)% к сопротивлению всем стихиям15% повышение скорости передвижения(10-20)% увеличение урона от стихийВы можете наложить дополнительное проклятиеНасмешки ветра, волшебный щит,  в безумье спетом их крик летит.1Восстание каруиИзменяет Оберег каруиОберег каруиАмулет с нефритомТребуется Уровень 5+(20-30) к ловкости+(20-30) к силе+100 к меткости30% повышение скорости снарядов10% повышение скорости передвижения30% увеличение урона снарядов«Сначала бей, потом говори».- Пословица каруи в Натиск каруиНатиск каруиАмулет с нефритомТребуется Уровень 24+(20-30) к ловкости+(20-30) к силе(5-10)% повышение скорости атаки+100 к меткости30% повышение скорости снарядов10% повышение скорости передвижения30% увеличение урона снарядовМертвецам ответы ни к чему. после исполнения пророчества.Убить легионеров-каменитов в Зерновых воротах, пока у тебя есть Оберег каруиОберег каруиАмулет с нефритомТребуется Уровень 5+(20-30) к ловкости+(20-30) к силе+100 к меткости30% повышение скорости снарядов10% повышение скорости передвижения30% увеличение урона снарядов«Сначала бей, потом говори».- Пословица каруи; "Пока у тебя есть" означает, что предмет должен находиться в инвентаре на момент исполнения пророчества (экипировать не обязательно).1Гибель в терновникеИзменяет Колючий панцирьКолючий панцирьПанцирьКачество: +20%Броня: 22Скорость передвижения: -3%Добавляет от 2 до 4 физического урона к атакам+(12-20) к максимуму здоровья-2 входящего физического урона при получении удара от атак40% полученного физического урона в ближнем бою отражается атакующему«Лучше пусть боятся, а не любят». в Колючая стенаКолючая стенаПанцирьКачество: +20%Броня: 2422Скорость передвижения: -3%Требуется Уровень 30Добавляет от 2 до 4 физического урона к атакам+2000 к броне+(12-20) к максимуму здоровья-2 входящего физического урона при получении удара от атак40% полученного физического урона в ближнем бою отражается атакующемуНет стены толще и прочнее, чем стена страха. после исполнения пророчества.Убить Дарессо, Венценосеца мечей в Великой арене, пока у тебя есть Колючий панцирьКолючий панцирьПанцирьКачество: +20%Броня: 22Скорость передвижения: -3%Добавляет от 2 до 4 физического урона к атакам+(12-20) к максимуму здоровья-2 входящего физического урона при получении удара от атак40% полученного физического урона в ближнем бою отражается атакующему«Лучше пусть боятся, а не любят»..1Глупость алчностиУлучшение Ведущие к чудесамВедущие к чудесамБархатные тапочкиКачество: +20%Энерг. щит: (21-28)Требуется Уровень 9, 21 Инт+(5-10) к силе+(5-10) к ловкости+(5-10) к интеллекту+(10-16) к максимуму энергетического щита100% повышение редкости найденных предметов при малом количестве здоровья10% повышение скорости передвиженияНа пороге смерти чудес в избытке. до Западня алчностиЗападня алчностиБархатные тапочкиКачество: +20%Энерг. щит: (117-141)Требуется Уровень 52, 21 Инт+(5-10) к силе+(5-10) к ловкости+(5-10) к интеллекту+(90-110) к максимуму энергетического щита(10-16)% увеличение количества найденных предметов при малом количестве здоровья20% повышение скорости передвиженияОднажды попробовав, тебе захочется ещё..Победить Хранителя сокровищницы на Карте хранилищаКарта хранилищаУровень области: 82Уровень карты: 15Редактор тега гильдии: )Сокровища поражают воображение, но их не достать.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Ведущие к чудесамВедущие к чудесамБархатные тапочкиКачество: +20%Энерг. щит: (21-28)Требуется Уровень 9, 21 Инт+(5-10) к силе+(5-10) к ловкости+(5-10) к интеллекту+(10-16) к максимуму энергетического щита100% повышение редкости найденных предметов при малом количестве здоровья10% повышение скорости передвиженияНа пороге смерти чудес в избытке..1Горящий ужасУлучшение Изгиб ужасаИзгиб ужасаСекачОдноручный топорКачество: +20%Физический урон: от (20.4-32.4) до (66-72)Урон от стихий: от (5-15) до (20-25)Шанс критического удара: 5.00%Атак в секунду: (1.39-1.43)Дальность оружия: 11Требуется Уровень 16, 48 СилаДобавляет от (5-15) до (20-25) физического уронаДобавляет от (5-15) до (20-25) урона от огня5% повышение скорости передвижения(7-10)% повышение скорости атаки+(15-25)% к сопротивлению огнюПри нанесении удара проклинает врагов Горючестью с усиленным на 40% эффектом«Путь к сердцу мужчинылежит через его грудину». до Страшная волнаСтрашная волнаСекачОдноручный топорКачество: +20%Физический урон: от (20.4-32.4) до (66-72)Урон от стихий: от (223-250) до (264-280)Шанс критического удара: 5.00%Атак в секунду: (1.39-1.43)Дальность оружия: 11Требуется Уровень 60, 48 СилаДобавляет от (5-15) до (20-25) физического уронаДобавляет от (223-250) до (264-280) урона от огня5% повышение скорости передвижения(7-10)% повышение скорости атаки+(15-25)% к сопротивлению огнюУдары игнорируют вражеское сопротивление к огню, пока вы подожженыРазгорячи мужчину, и его сердце замрёт на миг.Подожги его, и сердце замрёт навсегда..Победить Веру Небесную на Карте святыниКарта святыниУровень области: 72Уровень карты: 5Редактор тега гильдии: èЧёрную душу добела не отмоешь.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Изгиб ужасаИзгиб ужасаСекачОдноручный топорКачество: +20%Физический урон: от (20.4-32.4) до (66-72)Урон от стихий: от (5-15) до (20-25)Шанс критического удара: 5.00%Атак в секунду: (1.39-1.43)Дальность оружия: 11Требуется Уровень 16, 48 СилаДобавляет от (5-15) до (20-25) физического уронаДобавляет от (5-15) до (20-25) урона от огня5% повышение скорости передвижения(7-10)% повышение скорости атаки+(15-25)% к сопротивлению огнюПри нанесении удара проклинает врагов Горючестью с усиленным на 40% эффектом«Путь к сердцу мужчинылежит через его грудину»..1День Кровавых цветовУлучшение Триумф эзомитаТриумф эзомитаЖелезная шапкаКачество: +20%Броня: (28-40)20% увеличение глобального физического урона+(15-25) к броне+(25-50) к максимуму здоровьяНевозможно уклониться от вражеских атакГоды служения, миг  славы, и вечность смерти. до Опора эзомитаОпора эзомитаЖелезная шапкаКачество: +20%Броня: (28-40)20% увеличение глобального физического урона+(15-25) к броне+(25-50) к максимуму здоровьяНевозможно уклониться от вражеских атакНе может быть оглушенМиг победы, о которой помнят, может длиться вечно..Победить легионеров каменитов в Зерновых вратах в 8 акте, пока у тебя есть Триумф эзомитаТриумф эзомитаЖелезная шапкаКачество: +20%Броня: (28-40)20% увеличение глобального физического урона+(15-25) к броне+(25-50) к максимуму здоровьяНевозможно уклониться от вражеских атакГоды служения, миг  славы, и вечность смерти..1Древний рокИзменение Стрел рокаСтрелы рокаЦарский лукЛукКачество: +20%Физический урон: от (26.4-31.2) до (73.2-78)Шанс критического удара: 5.00%Атак в секунду: (1.59-1.65)Дальность оружия: 120Требуется Уровень 28, 95 Ловк(20-24)% увеличение урона от стихий от умений атакДобавляет от (12-16) до (20-24) физического урона(10-14)% повышение скорости атаки60% повышение скорости регенерации маныДарует 100% от физического урона оружием в виде дополнительного урона от случайной стихии"Обгорелые, замерзшие,  пораженные молнией -  мне все едино, а смерти  и подавно."  - Коралий "Стрела рока" в Призму Стрел рокаПризма Стрел рокаЦарский лукЛукКачество: +20%Физический урон: от (26.4-31.2) до (73.2-78)Шанс критического удара: 5.00%Атак в секунду: (1.59-1.65)Дальность оружия: 120Требуется Уровень 40, 95 Ловк(20-24)% увеличение урона от стихий от умений атакДобавляет от (12-16) до (20-24) физического урона(10-14)% повышение скорости атаки60% повышение скорости регенерации маныДарует 100% от физического урона оружием в виде дополнительного урона от каждой стихии«Тысячу лет назад ваал практиковали  настолько изощрённые способы убийства, что мне о них остаётся только мечтать». - Коралий «Стрела рока».Победить Вседушу ваал в Древней пирамиде, имея при себе Стрелы рокаСтрелы рокаЦарский лукЛукКачество: +20%Физический урон: от (26.4-31.2) до (73.2-78)Шанс критического удара: 5.00%Атак в секунду: (1.59-1.65)Дальность оружия: 120Требуется Уровень 28, 95 Ловк(20-24)% увеличение урона от стихий от умений атакДобавляет от (12-16) до (20-24) физического урона(10-14)% повышение скорости атаки60% повышение скорости регенерации маныДарует 100% от физического урона оружием в виде дополнительного урона от случайной стихии"Обгорелые, замерзшие,  пораженные молнией -  мне все едино, а смерти  и подавно."  - Коралий "Стрела рока".1Жертва царицыИзменение Зеркала АтзириЗеркало АтзириЗолотой баклерКачество: +20%Шанс заблокировать удар: 25%Уклонение: (930-992)Скорость передвижения: -3%Требуется Уровень 54, 130 Ловк6% повышение скорости передвижения+(40-60) к интеллекту(180-200)% увеличение уклонения+(20-30)% к сопротивлению всем стихиям50% уменьшение длительности проклятий на васОтражение порчи+10% шанс блокировать урон от атак, пока не проклят+20% шанс блокировать урон от чар под действием проклятий«Пока я вижу в зеркале смерть, ее будет видеть истрана».- Азири, царица ваал в Отражение АтзириОтражение АтзириЗолотой баклерКачество: +20%Шанс заблокировать удар: 25%Уклонение: (930-992)Энерг. щит: (216-240)Скорость передвижения: -3%Требуется Уровень 68, 130 Ловк6% повышение скорости передвижения+(40-60) к интеллекту(180-200)% увеличение уклонения+(180-200) к максимуму энергетического щита+(20-30)% к сопротивлению всем стихиямОтражение порчиПроклятия не имеют воздействия(15-20)% усиление эффекта ваших проклятий"Наконец-то моя красота недосягаема для дурной молвы."- Азири, царица ваал.Победить Атзири, Царицу ваал в Манящей Бездне, имея при себе Зеркало АтзириЗеркало АтзириЗолотой баклерКачество: +20%Шанс заблокировать удар: 25%Уклонение: (930-992)Скорость передвижения: -3%Требуется Уровень 54, 130 Ловк6% повышение скорости передвижения+(40-60) к интеллекту(180-200)% увеличение уклонения+(20-30)% к сопротивлению всем стихиям50% уменьшение длительности проклятий на васОтражение порчи+10% шанс блокировать урон от атак, пока не проклят+20% шанс блокировать урон от чар под действием проклятий«Пока я вижу в зеркале смерть, ее будет видеть истрана».- Азири, царица ваал.1Закалённый в боюУлучшение Железное сердцеЖелезное сердцеДоспех поборникаКачество: +20%Броня: (1202-1322)Скорость передвижения: -5%Требуется Уровень 59, 160 Сила(80-100)% повышение брони10% снижение скорости передвижения(8-12)% шанс блокировать урон от атакНе может блокировать чарыУвеличение урона от силы дарует 3% (вместо 2%) увеличения физического урона в ближнем бою за каждые 10 силы«Коспри, у Совета хватает важных тайн.Некоторые из них лучше хранить».- Мавритий Железное сердце до Железная крепостьЖелезная крепостьДоспех поборникаКачество: +20%Броня: (1202-1322)Скорость передвижения: -5%Требуется Уровень 68, 160 Сила+1% шанс блокировать урон от атак за каждые 50 силыШанс блокировать урон от чар неудачлив+(60-120) к силе(80-100)% повышение брони10% снижение скорости передвиженияУвеличение урона от силы дарует 3% (вместо 2%) увеличения физического урона в ближнем бою за каждые 10 силы«Не склоняйся пред ликом уничтожения.Совету не пристало трепетать.»- Мавритий Железное Сердце.Победить Тирана на Карте колоннадыКарта колоннадыУровень области: 82Уровень карты: 15Редактор тега гильдии: .Мелким умишкам подавай здания побольше.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Железное сердцеЖелезное сердцеДоспех поборникаКачество: +20%Броня: (1202-1322)Скорость передвижения: -5%Требуется Уровень 59, 160 Сила(80-100)% повышение брони10% снижение скорости передвижения(8-12)% шанс блокировать урон от атакНе может блокировать чарыУвеличение урона от силы дарует 3% (вместо 2%) увеличения физического урона в ближнем бою за каждые 10 силы«Коспри, у Совета хватает важных тайн.Некоторые из них лучше хранить».- Мавритий Железное сердце.1Затоптанный костёрИзменение КальтенхалтаКальтенхалтЖелезный баклерКачество: +20%Шанс заблокировать удар: 29%Уклонение: (196-239)Скорость передвижения: -3%Требуется Уровень 16, 44 Ловк6% повышение скорости передвижения(60-100)% увеличение уклонения+5% к максимальному сопротивлению холоду+50% к сопротивлению холодуДарует (10-15)% от физического урона в виде дополнительного урона от холодаОтражает (25-50) урона от холода атакующим в ближнем бою+5% шанс блокаЖалок, простужен и одинок... зато жив. в КальтенсоулКальтенсоулЖелезный баклерКачество: +20%Шанс заблокировать удар: 29%Уклонение: (196-239)Скорость передвижения: -3%Требуется Уровень 16, 44 Ловк6% повышение скорости передвижения(60-100)% увеличение уклонения+5% к максимальному сопротивлению холоду+50% к сопротивлению холодуДарует (10-15)% от физического урона в виде дополнительного урона от холодаОтражает (25-50) урона от холода атакующим в ближнем бою+5% шанс блока20% получаемого урона от огня от ударов становится уроном от холодаПлоть может мёрзнуть и гнить,но дух остаётся несломленным..Победить Щелкуна в Тюремном подземелье 1 акта, имея при себе КальтенхалтКальтенхалтЖелезный баклерКачество: +20%Шанс заблокировать удар: 29%Уклонение: (196-239)Скорость передвижения: -3%Требуется Уровень 16, 44 Ловк6% повышение скорости передвижения(60-100)% увеличение уклонения+5% к максимальному сопротивлению холоду+50% к сопротивлению холодуДарует (10-15)% от физического урона в виде дополнительного урона от холодаОтражает (25-50) урона от холода атакующим в ближнем бою+5% шанс блокаЖалок, простужен и одинок... зато жив..1Злая ведьмаУлучшение Власть ДоэдреВласть ДоэдреБархатные перчаткиКачество: +20%Энерг. щит: 49Требуется Уровень 12, 21 Инт(50-60)% увеличение урона от чар+20 к интеллекту15% снижение скорости сотворения чар+32 к максимуму энергетического щитаХотя Доэдре была лишена чувства стиляМалигаро,она превосходила господина в чистой злобе. до Злоба ДоэдреЗлоба ДоэдреБархатные перчаткиКачество: +20%Энерг. щит: (87-126)Требуется Уровень 64, 21 Инт+20 к интеллекту(50-60)% увеличение урона от чарДобавляет от (48-56) до (73-84) урона хаосом к чарам15% снижение скорости сотворения чар+(64-96) к максимуму энергетического щитаУсиленные Высвобождением умения имеют (30-50)% повышение частоты получения печатейИменно Доэдре поняла, что порожденнаястрахом боль не слабее боли от увечий..Победить Эритрофагию на Карте фантасмагорииКарта фантасмагорииУровень области: 77Уровень карты: 10Редактор тега гильдии: oКаждое движение видят, замечают, помнят.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Власть ДоэдреВласть ДоэдреБархатные перчаткиКачество: +20%Энерг. щит: 49Требуется Уровень 12, 21 Инт(50-60)% увеличение урона от чар+20 к интеллекту15% снижение скорости сотворения чар+32 к максимуму энергетического щитаХотя Доэдре была лишена чувства стиляМалигаро,она превосходила господина в чистой злобе..1Идеальный хищникИзменение Клёкота орлаКлёкот орлаНефритовый топорОдноручный топорКачество: +20%Физический урон: от (24-30) до (48-54)Шанс критического удара: 5.00%Атак в секунду: 1.45Дальность оружия: 11Требуется Уровень 6, 21 СилаРазмещённые камни усилены Паникой 2 уровняДобавляет от (10-15) до (25-30) физического урона+(10-15) к максимуму здоровья+(5-7) здоровья за убийство10% повышение скорости передвиженияОрел иной не знает доли,чем клекот и добычи смерть. в ГрифонаГрифонНефритовый топорОдноручный топорКачество: +20%Физический урон: от (58-77.5) до (116-139.5)Шанс критического удара: 5.00%Атак в секунду: 1.45Дальность оружия: 11Требуется Уровень 32, 21 СилаРазмещённые камни усилены Паникой 2 уровня(170-190)% увеличение физического уронаДобавляет от (10-15) до (25-30) физического урона+(10-15) к максимуму здоровья+(5-7) здоровья за убийство10% повышение скорости передвижения15% повышение скорости передвижения, если недавно вы совершали убийствоГрифон умеет только летать и охотиться..Победить Стофутовую Тень в Акведуке в 4 акте, имея при себе Клёкот орлаКлёкот орлаНефритовый топорОдноручный топорКачество: +20%Физический урон: от (24-30) до (48-54)Шанс критического удара: 5.00%Атак в секунду: 1.45Дальность оружия: 11Требуется Уровень 6, 21 СилаРазмещённые камни усилены Паникой 2 уровняДобавляет от (10-15) до (25-30) физического урона+(10-15) к максимуму здоровья+(5-7) здоровья за убийство10% повышение скорости передвиженияОрел иной не знает доли,чем клекот и добычи смерть..1Из пустотыУлучшение Черное сердцеЧерное сердцеЖелезное кольцоДобавляет от 1 до 4 физического урона к атакам5% увеличение глобального физического уронаДобавляет от 1 до 3 урона хаосом к атакам+(20-30) к максимуму здоровьяРегенерация (2-4) здоровья в секунду10% шанс испугать враговСтрах очень заразителен. до Пустое сердцеПустое сердцеЖелезное кольцоТребуется Уровень 48Добавляет от 1 до 4 физического урона к атакам5% увеличение глобального физического уронаДобавляет от 1 до 3 урона хаосом к атакам+(20-30) к максимуму здоровьяРегенерация (2-4) здоровья в секунду10% шанс испугать враговАтаки в ближнем бою имеют (30-50)% шанс наложить кровотечениеАтаки ближнего боя имеют (20-40)% шанс отравить при нанесении удараНичто не раздувает страх сильнее, чемневедомое..Победить Бэмита, Идущую тьму в области 33 уровня и выше (за исключением Имперских садов), пока у тебя есть Черное сердцеЧерное сердцеЖелезное кольцоДобавляет от 1 до 4 физического урона к атакам5% увеличение глобального физического уронаДобавляет от 1 до 3 урона хаосом к атакам+(20-30) к максимуму здоровьяРегенерация (2-4) здоровья в секунду10% шанс испугать враговСтрах очень заразителен..1Кара солнцаУлучшение Танец солнцаТанец солнцаКалигиКачество: +20%Уклонение: (100-120)Энерг. щит: 12Требуется Уровень 27, 27 Ловк, 27 Инт10% повышение скорости атаки(80-120)% увеличение уклонения(20-30)% повышение редкости найденных предметов+(30-40)% к сопротивлению огню20% повышение скорости передвиженияТы пускайся и не стой в пляс под сферой золотой! до Злонравие солнцаЗлонравие солнцаКалигиКачество: +20%Уклонение: (190-210)Энерг. щит: (38-42)Требуется Уровень 59, 27 Ловк, 27 Инт10% повышение скорости атаки(260-300)% увеличение уклонения и энергетического щита(20-30)% повышение редкости найденных предметов+(30-40)% к сопротивлению огню20% повышение скорости передвижения(10-20)% повышение скорости передвижения, если подожжён+25% к шансу быть подожжённымРегенерация (75-125) здоровья в секунду, если подожжёнГорящая богиня сияет ярко так, что вместе с ней пылает мир на твоих глазах..Победить Рассвет, предвестник Солярис на 2 уровне Храма Солярис в 8 акте, пока у тебя есть Танец солнцаТанец солнцаКалигиКачество: +20%Уклонение: (100-120)Энерг. щит: 12Требуется Уровень 27, 27 Ловк, 27 Инт10% повышение скорости атаки(80-120)% увеличение уклонения(20-30)% повышение редкости найденных предметов+(30-40)% к сопротивлению огню20% повышение скорости передвиженияТы пускайся и не стой в пляс под сферой золотой!..1Конец светаУлучшение Ледяной склепЛедяной склепУсиленная байданаКачество: +20%Броня: (561-604)Энерг. щит: (111-120)Скорость передвижения: -5%Требуется Уровень 39, 59 Сила, 59 Инт+(30-40) к силе+(30-40) к интеллекту(140-160)% повышение брони и энергетического щита+(50-75)% к сопротивлению холодуНе может быть охлаждён150% увеличение длительности охлаждения на врагахКогда в конце времен Солярис закроет свое жгучее око, мир сгинет во льдах. до Кристальная могилаКристальная могилаУсиленная байданаКачество: +20%Броня: (561-604)Энерг. щит: (111-120)Скорость передвижения: -5%Требуется Уровень 49, 59 Сила, 59 Инт+(30-40) к силе+(30-40) к интеллекту(140-160)% повышение брони и энергетического щита+(50-75)% к сопротивлению холодуНе может быть охлаждён20% получаемого физического урона от ударов становится уроном от холода30% получаемого урона от огня от ударов становится уроном от холода(15-20)% усиление эффектов состояний холодаПод заледенелым оком Лунарис будет рождён новый мир. Кристаллическая, идеально неподвижная утопия..Победить Тсоагота, Морского царя в Зерновых вратах в 6 акте, пока у тебя есть Ледяной склепЛедяной склепУсиленная байданаКачество: +20%Броня: (561-604)Энерг. щит: (111-120)Скорость передвижения: -5%Требуется Уровень 39, 59 Сила, 59 Инт+(30-40) к силе+(30-40) к интеллекту(140-160)% повышение брони и энергетического щита+(50-75)% к сопротивлению холодуНе может быть охлаждён150% увеличение длительности охлаждения на врагахКогда в конце времен Солярис закроет свое жгучее око, мир сгинет во льдах..1Лёд и пламяИзменение Скорби ХримаСкорбь ХримаСафьяновые перчаткиКачество: +20%Уклонение: (86-98)Требуется Уровень 9, 17 Ловк+(20-30) к силеДобавляет от (5-7) до (13-15) урона от холода к чарам и атакам+(40-50) к уклонению+(20-30)% к сопротивлению холоду50% физического урона становится уроном от холодаОтражает 10 урона от холода атакующим в ближнем боюВеличие древних с водой утекло,остались руины, да древнее зло. в Ожог ХримаОжог ХримаСафьяновые перчаткиКачество: +20%Уклонение: (86-98)Требуется Уровень 24, 17 Ловк+(20-30) к силеДобавляет от (5-7) до (13-15) урона от холода к чарам и атакам+(40-50) к уклонению+(20-30)% к сопротивлению холоду50% физического урона становится уроном от холодаОтражает 10 урона от холода атакующим в ближнем боюВаш урон от холода может поджечьДух великана не укротить, как не унять разошедшееся пламя..Победить Отморозка на Прибрежном острове в 1 акте, имея при себе Скорбь ХримаСкорбь ХримаСафьяновые перчаткиКачество: +20%Уклонение: (86-98)Требуется Уровень 9, 17 Ловк+(20-30) к силеДобавляет от (5-7) до (13-15) урона от холода к чарам и атакам+(40-50) к уклонению+(20-30)% к сопротивлению холоду50% физического урона становится уроном от холодаОтражает 10 урона от холода атакующим в ближнем боюВеличие древних с водой утекло,остались руины, да древнее зло..1Лес ложных божковУлучшение Араку ТикиАраку ТикиАмулет с коралломРегенерация (2-4) здоровья в секунду+100 к уклонению при малом количестве здоровья+(30-50) к максимуму здоровья+(20-30)% к сопротивлению огнюРегенерация 1% здоровья в секунду при малом количестве здоровьяГоворят, он скроет тебя от Великого Духа,когда тот придет отвести в последний путь. до Нгамаху ТикиНгамаху ТикиАмулет с коралломТребуется Уровень 36Регенерация (2-4) здоровья в секунду(50-70)% увеличение урона от огня+100 к уклонению при малом количестве здоровья+(30-50) к максимуму здоровья+(20-30)% к сопротивлению огнюРегенерация 1% здоровья в секунду при малом количестве здоровьяПламя ведёт Великий дух к пристанищу мёртвых,а дым забирает их на небеса..Победить Факельную рощу в Сне Каома в 4 акте, пока у тебя есть Араку ТикиАраку ТикиАмулет с коралломРегенерация (2-4) здоровья в секунду+100 к уклонению при малом количестве здоровья+(30-50) к максимуму здоровья+(20-30)% к сопротивлению огнюРегенерация 1% здоровья в секунду при малом количестве здоровьяГоворят, он скроет тебя от Великого Духа,когда тот придет отвести в последний путь..1Лишние рукиИзменение ОтсекателяОтсекательКолунДвуручный топорКачество: +20%Физический урон: от (48-52.8) до (98-107.8)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 13, 36 Сила, 17 Ловк+1 к уровню размещённых камней силыВызывает срабатывание Кровавой ударной волны 1 уровня при нанесении удара в ближнем бою, если у вас как минимум 150 силы+(15-30) к силе(80-100)% увеличение физического уронаДобавляет от 5 до 10 физического уронаДобиваниеПространство рассекая, он поето веренице срубленных голов. в ПрижигателяПрижигательКолунДвуручный топорКачество: +20%Физический урон: от (108-140.8) до (238-283.8)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 40, 36 Сила, 17 Ловк+1 к уровню размещённых камней силыВызывает срабатывание Кровавой ударной волны 5 уровня при нанесении удара в ближнем бою, если у вас как минимум 150 силы+(15-30) к силе(80-100)% увеличение физического уронаДобавляет от 5 до 10 физического уронаДобавляет от (30-40) до (70-80) физического уронаДарует 70% от физического урона в виде дополнительного урона от огняДобиваниеСгоревшая ветвь не плодоносит..Победить Град молотов в Шахтах — уровень 2 в 4 акте, имея при себе ОтсекательОтсекательКолунДвуручный топорКачество: +20%Физический урон: от (48-52.8) до (98-107.8)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 13, 36 Сила, 17 Ловк+1 к уровню размещённых камней силыВызывает срабатывание Кровавой ударной волны 1 уровня при нанесении удара в ближнем бою, если у вас как минимум 150 силы+(15-30) к силе(80-100)% увеличение физического уронаДобавляет от 5 до 10 физического уронаДобиваниеПространство рассекая, он поето веренице срубленных голов..1Мелодия тетивыИзменение Арфы смертиАрфа смертиЛук смертиЛукКачество: +20%Физический урон: от (44-49) до (116.6-129.85)Шанс критического удара: (6.50%-7.50%)Атак в секунду: 1.32Дальность оружия: 120Требуется Уровень 32, 107 Ловк(30-50)% повышение шанса критического удара(100-125)% увеличение физического урона10% повышение скорости атаки+50% к глобальному множителю критического удараАтаки луками выпускают дополнительную стрелуПогребальная песня струнотдается в изгибе арфы,что поет, отпустив стрелуотбирать жизнь у новых падших. в Творение смертиТворение смертиЛук смертиЛукКачество: +20%Физический урон: от (66-98) до (182.6-215.6)Шанс критического удара: (6.50%-7.50%)Атак в секунду: 1.32Дальность оружия: 120Требуется Уровень 44, 107 Ловк(30-50)% повышение шанса критического удара(100-125)% увеличение физического уронаДобавляет от (10-20) до (30-35) физического урона10% повышение скорости атаки+50% к глобальному множителю критического удараАтаки луками выпускают дополнительную стрелуАтаки луками выпускают дополнительную стрелуВступление заиграло утончённо,и песню хор подхватывать готов.Стаккато, ритм металла перезвономи ног Жнеца финальный гром шагов..Победить Ночную слабость в Высохшем озере, имея при себе Арфу смертиАрфа смертиЛук смертиЛукКачество: +20%Физический урон: от (44-49) до (116.6-129.85)Шанс критического удара: (6.50%-7.50%)Атак в секунду: 1.32Дальность оружия: 120Требуется Уровень 32, 107 Ловк(30-50)% повышение шанса критического удара(100-125)% увеличение физического урона10% повышение скорости атаки+50% к глобальному множителю критического удараАтаки луками выпускают дополнительную стрелуПогребальная песня струнотдается в изгибе арфы,что поет, отпустив стрелуотбирать жизнь у новых падших..1Наследие блюстителяУлучшение Шлем ДжофриШлем ДжофриБольшая коронаКачество: +20%Броня: (257-286)Энерг. щит: (50-56)Требуется Уровень 53, 59 Сила, 59 Инт+1 к уровню размещённых камней(60-80)% повышение брони и энергетического щита+(15-20)% к сопротивлению огню+(15-20)% к сопротивлению холоду+(15-20)% к сопротивлению молнии+(20-30)% к сопротивлению хаосуДжофри победил в битве за честь,но проиграл сражение за жизнь. до Наследие ДжофриНаследие ДжофриБольшая коронаКачество: +20%Броня: (257-286)Энерг. щит: (50-56)Требуется Уровень 62, 59 Сила, 59 Инт+1 к уровню размещённых камней(60-80)% повышение брони и энергетического щита+(15-20)% к сопротивлению огню+(15-20)% к сопротивлению холоду+(15-20)% к сопротивлению молнии+(20-30)% к сопротивлению хаосу+1 к максимуму призванных священных реликвий(25-20)% снижение скорости перезарядки призванных священных реликвий«Хоть путеводная звезда Джофри и погасла,пламя его до сих пор освещает нам путь.»- Виктарио, Народный поэт.Победить Шамана Агонии на Карте проклятого склепа, пока у тебя есть Шлем ДжофриШлем ДжофриБольшая коронаКачество: +20%Броня: (257-286)Энерг. щит: (50-56)Требуется Уровень 53, 59 Сила, 59 Инт+1 к уровню размещённых камней(60-80)% повышение брони и энергетического щита+(15-20)% к сопротивлению огню+(15-20)% к сопротивлению холоду+(15-20)% к сопротивлению молнии+(20-30)% к сопротивлению хаосуДжофри победил в битве за честь,но проиграл сражение за жизнь..1Начало концаУлучшите Исказителем бытияИсказитель бытияКрепкий посохВоинский посохКачество: +20%Физический урон: 16.8-50.4Урон от стихий: от (10-15) до (20-25), от (10-15) до (20-25)Шанс критического удара: 6.40%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 13, 27 Сила, 27 Инт+18% шанс блокировать урон от атак с посохом в руках+1 к уровню размещённых камней огня+1 к уровню размещённых камней холодаРазмещённые камни усилены Холодом в огонь 5 уровняДобавляет от (10-15) до (20-25) урона от огняДобавляет от (10-15) до (20-25) урона от холода(30-50)% увеличение урона от стихий«Начало и конец божьим творениям всегда несут огонь и лёд. Всё хорошо, если этих знамений не видно на горизонте». - Старший блюститель Ирений в Губитель бытияГубитель бытияКрепкий посохВоинский посохКачество: +20%Физический урон: 16.8-50.4Урон от стихий: от (10-15) до (20-25), от (10-15) до (20-25)Шанс критического удара: 6.40%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 40, 27 Сила, 27 Инт+18% шанс блокировать урон от атак с посохом в руках+1 к уровню размещённых камней огня+1 к уровню размещённых камней холода+2 к уровню размещённых камней стихийРазмещённые камни усилены Холодом в огонь 5 уровняДобавляет от (10-15) до (20-25) урона от огняДобавляет от (10-15) до (20-25) урона от холода(30-50)% увеличение урона от стихий«Пожар обязательно разгорится. Я лишь молю оказаться достаточно мёртвым, когда это произойдёт». - Старший блюститель Ирений, после завершения задания.Убейте Старшего блюстителя Джофри в Склеп на 2ом уровне с Исказителем бытияИсказитель бытияКрепкий посохВоинский посохКачество: +20%Физический урон: 16.8-50.4Урон от стихий: от (10-15) до (20-25), от (10-15) до (20-25)Шанс критического удара: 6.40%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 13, 27 Сила, 27 Инт+18% шанс блокировать урон от атак с посохом в руках+1 к уровню размещённых камней огня+1 к уровню размещённых камней холодаРазмещённые камни усилены Холодом в огонь 5 уровняДобавляет от (10-15) до (20-25) урона от огняДобавляет от (10-15) до (20-25) урона от холода(30-50)% увеличение урона от стихий«Начало и конец божьим творениям всегда несут огонь и лёд. Всё хорошо, если этих знамений не видно на горизонте». - Старший блюститель Ирений в руках.1Недопонятая царицаИзменение Царского указаЦарский указУкрашенный мечДвуручный мечКачество: +20%Физический урон: 36-60Шанс критического удара: 5.00%Атак в секунду: 1.40Дальность оружия: 13Требуется Уровень 27, 56 Сила, 54 Ловк+185 к меткости25% увеличение требований к силеПриспешники имеют (30-40)% увеличение максимума здоровья(150-200)% увеличение времени существования скелетовПриспешники имеют (30-40)% увеличение урона+1 к максимальному числу зомби+1 к максимальному числу скелетов+1 к максимальному числу призраковВозжелали дворяне ее трон занять -  повелела народ до конца обобрать.  Захотели в народе вернуть деньги вспять -   повелела солдатам их головы взять.  Пожелали солдаты ей голову снять -  и осталось на троне бессильно рыдать. в Бегство царицыБегство царицыУкрашенный мечДвуручный мечКачество: +20%Физический урон: 36-60Шанс критического удара: 5.00%Атак в секунду: 1.40Дальность оружия: 13Требуется Уровень 38, 56 Сила, 54 Ловк+185 к меткостиПриспешники имеют (30-40)% увеличение максимума здоровьяПриспешники имеют (80-100)% повышение скорости передвижения(150-200)% увеличение времени существования скелетов25% увеличение требований к силеПриспешники имеют (30-40)% увеличение урона+1 к максимальному числу зомби+1 к максимальному числу скелетов+1 к максимальному числу призраковСолдаты рвались в тронный зал. Стражники сдерживали порыв. Толпа крестьян смела стражников. Знать раздала гроши крестьянам и забрала трон царицы себе. Ей же досталась только лесная сень..Победить Царицу костей в Брюхе Зверя — уровень 1, имея при себе Царский указЦарский указУкрашенный мечДвуручный мечКачество: +20%Физический урон: 36-60Шанс критического удара: 5.00%Атак в секунду: 1.40Дальность оружия: 13Требуется Уровень 27, 56 Сила, 54 Ловк+185 к меткости25% увеличение требований к силеПриспешники имеют (30-40)% увеличение максимума здоровья(150-200)% увеличение времени существования скелетовПриспешники имеют (30-40)% увеличение урона+1 к максимальному числу зомби+1 к максимальному числу скелетов+1 к максимальному числу призраковВозжелали дворяне ее трон занять -  повелела народ до конца обобрать.  Захотели в народе вернуть деньги вспять -   повелела солдатам их головы взять.  Пожелали солдаты ей голову снять -  и осталось на троне бессильно рыдать..1Огонь и сераУлучшение Отсвет мракаОтсвет мракаКолчан огненных стрелТребуется Уровень 22Добавляет от 4 до 8 урона от огня к атакам луками10% повышение скорости атаки+(80-100) к уклонению+(10-30) к максимуму маны50% физического урона становится уроном от огняДобавляет от 5 до 10 урона от огня к атакам лукамиСтрел размытые черты,шепот их из темноты. до Сигнальный огоньСигнальный огоньКолчан огненных стрелТребуется Уровень 24Добавляет от 4 до 8 урона от огня к атакам луками10% повышение скорости атаки+(80-100) к уклонению+(10-30) к максимуму маныНаносит (25-35)% от физического урона от атак в виде дополнительного урона от огня50% физического урона становится уроном от огняДобавляет от 5 до 10 урона от огня к атакам лукамиМчится пожар, обгоняя оленей.Первая искра не бывает последней..Победить Опалителя в Крематории в 3 акте, пока у тебя есть Отсвет мракаОтсвет мракаКолчан огненных стрелТребуется Уровень 22Добавляет от 4 до 8 урона от огня к атакам луками10% повышение скорости атаки+(80-100) к уклонению+(10-30) к максимуму маны50% физического урона становится уроном от огняДобавляет от 5 до 10 урона от огня к атакам лукамиСтрел размытые черты,шепот их из темноты..1Падение империиУлучшение КечоллиКечоллиЗубастый молотДвуручная булаваКачество: +20%Физический урон: от (64-70.4) до (148-162.8)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 22, 77 Сила30% увеличение длительности оглушения на врагах(80-100)% увеличение физического уронаДобавляет от 5 до 25 физического урона+(25-50) ко всем характеристикам+10 здоровья за убийствоУбитые ударами от атак или чар враги взрываются, нанося 10% от их здоровья в виде урона от огня«Пик величия народа омывается морем крови. Такова природа прогресса».- Джибади из народа ваал до ПанкетзализтлиПанкетзализтлиЗубастый молотДвуручная булаваКачество: +20%Физический урон: от (242-275) до (328-374)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 61, 77 Сила30% увеличение длительности оглушения на врагах(80-100)% увеличение физического уронаДобавляет от (94-98) до (115-121) физического урона+(25-50) ко всем характеристикамВосстанавливает 5% здоровья при убийствеУбитые ударами от атак или чар враги взрываются, нанося 10% от их здоровья в виде урона от огня«Пик величия народа омывается морем крови. Такова природа прогресса».- Джибади из народа ваал.Победить Тень ваал на Карте лабиринтаКарта лабиринтаУровень области: 80Уровень карты: 13Редактор тега гильдии: lОни вечно живут в плену темноты и стен. Мы так похожи.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть КечоллиКечоллиЗубастый молотДвуручная булаваКачество: +20%Физический урон: от (64-70.4) до (148-162.8)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 22, 77 Сила30% увеличение длительности оглушения на врагах(80-100)% увеличение физического уронаДобавляет от 5 до 25 физического урона+(25-50) ко всем характеристикам+10 здоровья за убийствоУбитые ударами от атак или чар враги взрываются, нанося 10% от их здоровья в виде урона от огня«Пик величия народа омывается морем крови. Такова природа прогресса».- Джибади из народа ваал.1Песнь сехемыУлучшение Отметина АзенатОтметина АзенатЖелезный обручКачество: +20%Энерг. щит: (48-72)Требуется Уровень 8, 23 Инт(10-15)% повышение скорости атаки(10-15)% повышение скорости сотворения чар30% повышение скорости регенерации маны+(30-50) к максимуму энергетического щита(10-15)% ускорение восстановления после оглушения и блока5% повышение скорости передвиженияВ гибкости и быстроте разум Азенат не уступалее пальцам, натягивающим тетиву. до Напев АзенатНапев АзенатЖелезный обручКачество: +20%Энерг. щит: (132-156)Требуется Уровень 45, 23 ИнтВызывает срабатывание размещенных чар при атаке луком, время перезарядки - 0.3 секунды(10-15)% повышение скорости атаки(10-15)% повышение скорости сотворения чар+(100-120) к максимуму энергетического щита(30-40)% ускорение восстановления после оглушения и блока30% повышение скорости регенерации маны5% повышение скорости передвиженияТетива лука Азенат звенела ровно и почти напевно.В такт ей летели стрелы и едва различимый шёпот,а следом шелестели рассыпающиеся в пыль мертвецы..Победить Гарухан в Каменоломне, пока у тебя есть Отметина АзенатОтметина АзенатЖелезный обручКачество: +20%Энерг. щит: (48-72)Требуется Уровень 8, 23 Инт(10-15)% повышение скорости атаки(10-15)% повышение скорости сотворения чар30% повышение скорости регенерации маны+(30-50) к максимуму энергетического щита(10-15)% ускорение восстановления после оглушения и блока5% повышение скорости передвиженияВ гибкости и быстроте разум Азенат не уступалее пальцам, натягивающим тетиву..1Печальные мелодии зимыИзменение Гимна ГримнораГимн ГримнораКувалдаДвуручная булаваКачество: +20%Физический урон: от (65-80) до (98.8-121.6)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 17, 62 Сила45% увеличение длительности оглушения на врагах(140-200)% увеличение физического урона+10 к силе15% снижение порога оглушения врагов1% физического урона от атак похищается в виде здоровья(40-50)% увеличение длительности оглушения на врагах«Хруст костей и бульканье крови.Это ли не сладчайшая музыка?»- Гримнор из народа эзомитов в Панихиду ГримнораПанихида ГримнораКувалдаДвуручная булаваКачество: +20%Физический урон: от (91-144) до (176.8-249.6)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 36, 62 Сила45% увеличение длительности оглушения на врагах(140-200)% увеличение физического уронаДобавляет от (10-20) до (30-40) физического урона+10 к силе15% снижение порога оглушения врагов1% физического урона от атак похищается в виде здоровья(40-50)% увеличение длительности оглушения на врагахДарует 50% от физического урона в виде дополнительного урона от холодаКогда ушей Гримнора достиг последний звук,его источник как раз прошёл под челюстью..Победить Плакальщицу, имея при себе Гимн ГримнораГимн ГримнораКувалдаДвуручная булаваКачество: +20%Физический урон: от (65-80) до (98.8-121.6)Шанс критического удара: 5.00%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 17, 62 Сила45% увеличение длительности оглушения на врагах(140-200)% увеличение физического урона+10 к силе15% снижение порога оглушения врагов1% физического урона от атак похищается в виде здоровья(40-50)% увеличение длительности оглушения на врагах«Хруст костей и бульканье крови.Это ли не сладчайшая музыка?»- Гримнор из народа эзомитов.1Пляска сталиУлучшение Танцующий дервишТанцующий дервишМеч наёмникаДвуручный мечКачество: +20%Физический урон: от (155-173.6) до (260-291.2)Шанс критического удара: 5.00%Атак в секунду: (1.88-1.95)Дальность оружия: 13Требуется Уровень 59, 82 Сила, 119 Ловк60% повышение глобальной меткости(130-160)% увеличение физического урона(25-30)% повышение скорости атаки5% повышение скорости передвиженияБуйствоВызывает срабатывание Проявления Танцующего Дервиша 15 уровня при БуйствеПроявление Танцующего Дервиша отключает оба слота оружияПроявление Танцующего Дервиша погибает по окончании действия БуйстваВозьми ты за руку партнёра,считай размеренно шаги.И порознь, и вместе споротанцуй, заполнив сонм могил. до Танцующий дуэтТанцующий дуэтМеч наёмникаДвуручный мечКачество: +20%Физический урон: от (155-173.6) до (260-291.2)Шанс критического удара: 5.00%Атак в секунду: (1.88-1.95)Дальность оружия: 13Требуется Уровень 65, 82 Сила, 119 Ловк60% повышение глобальной меткости(130-160)% увеличение физического урона(25-30)% повышение скорости атаки5% повышение скорости передвиженияБуйствоВызывает срабатывание Проявления Танцующего Дервиша 15 уровня при БуйствеПроявление Танцующего Дервиша отключает оба слота оружияПроявление Танцующего Дервиша погибает по окончании действия БуйстваПроявление Танцующего Дервиша также оживляет дополнительную копию Танцующего ДервишаДругой спешит с тобой устроить пляску.Свои шаги с его переплетии закружись, качаясь вместе с ними смертью, что приходит не напрасно..Победить Стальную душу на Карте арсеналаКарта арсеналаУровень области: 71Уровень карты: 4Редактор тега гильдии: éЗдесь нет войны. Здесь нет армии. Осталась только ярость.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Танцующий дервишТанцующий дервишМеч наёмникаДвуручный мечКачество: +20%Физический урон: от (155-173.6) до (260-291.2)Шанс критического удара: 5.00%Атак в секунду: (1.88-1.95)Дальность оружия: 13Требуется Уровень 59, 82 Сила, 119 Ловк60% повышение глобальной меткости(130-160)% увеличение физического урона(25-30)% повышение скорости атаки5% повышение скорости передвиженияБуйствоВызывает срабатывание Проявления Танцующего Дервиша 15 уровня при БуйствеПроявление Танцующего Дервиша отключает оба слота оружияПроявление Танцующего Дервиша погибает по окончании действия БуйстваВозьми ты за руку партнёра,считай размеренно шаги.И порознь, и вместе споротанцуй, заполнив сонм могил..1Позорная смертьУлучшение Укус ХайрриУкус ХайрриКолчан акульих стрелТребуется Уровень 10+(3-4) здоровья за каждый удар атаками по врагу+(15-25) к силе+(35-45) к ловкости+(15-25) к интеллектуДобавляет от 10 до 20 урона от холода к атакам(7-10)% повышение скорости атаки+(2-3) здоровья за каждый удар атаками по врагу10% увеличение области действияМесто женщины рода каруи не в битве, а у домашнего очага. Так было до Хайрри. до Гибель ХайрриГибель ХайрриКолчан акульих стрелТребуется Уровень 45+(3-4) здоровья за каждый удар атаками по врагу+(15-30) ко всем характеристикам(7-10)% повышение скорости атаки+(2-3) здоровья за каждый удар атаками по врагу10% увеличение области действияДобавляет от 1 до 2 урона от холода к атакам за каждые 10 ловкостиДобавляет от 1 до 2 урона от огня к атакам за каждые 10 силыДобавляет от 0 до 3 урона от молнии к атакам за каждые 10 интеллектаСмекалка привела Хайрри к победе,но лишила её уважения..Победить Оскорбленную царицу в Илистых низинах 6 акта, пока у тебя есть Укус ХайрриУкус ХайрриКолчан акульих стрелТребуется Уровень 10+(3-4) здоровья за каждый удар атаками по врагу+(15-25) к силе+(35-45) к ловкости+(15-25) к интеллектуДобавляет от 10 до 20 урона от холода к атакам(7-10)% повышение скорости атаки+(2-3) здоровья за каждый удар атаками по врагу10% увеличение области действияМесто женщины рода каруи не в битве, а у домашнего очага. Так было до Хайрри.1Последний дикарьУлучшение Ремни проворстваРемни проворстваРеменной кожаный доспехКачество: +20%Уклонение: (261-333)Скорость передвижения: -3%Требуется Уровень 9, 32 Ловк10% повышение скорости атаки+(120-180) к уклонению+(30-40)% к сопротивлению холоду5% повышение скорости передвижения(20-25)% увеличение восстановления маны от флаконов15% повышение ловкости«Я не ношу еду и питье. Ими делятся мои добрые спутники. Мертвые щедры».  - Тарук из дикого народа до Ремни дикостиРемни дикостиРеменной кожаный доспехКачество: +20%Уклонение: (837-957)Скорость передвижения: -3%Требуется Уровень 57, 32 Ловк10% повышение скорости атаки+(600-700) к уклонению+(30-40)% к сопротивлению холоду5% повышение скорости передвижения(20-25)% увеличение восстановления маны от флаконов15% повышение ловкости1% увеличение урона за каждые 15 ловкости"Законы пишутся для горожан. Нельзя призватьк ответу за убийство того, кого нельзя отыскать."- Тарук, последний из дикого народа.Победить Мастера клинка на Карте взморьяКарта взморьяУровень области: 70Уровень карты: 3Редактор тега гильдии: 8На этот мрачный берег отродясь не выносило ничего хорошего.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Ремни проворстваРемни проворстваРеменной кожаный доспехКачество: +20%Уклонение: (261-333)Скорость передвижения: -3%Требуется Уровень 9, 32 Ловк10% повышение скорости атаки+(120-180) к уклонению+(30-40)% к сопротивлению холоду5% повышение скорости передвижения(20-25)% увеличение восстановления маны от флаконов15% повышение ловкости«Я не ношу еду и питье. Ими делятся мои добрые спутники. Мертвые щедры».  - Тарук из дикого народа.1Поток энергииУлучшение Бег ШавроннБег ШавроннСапоги ученикаКачество: +20%Энерг. щит: (46-54)Требуется Уровень 32, 59 Инт+10 к ловкости+(20-30) к интеллекту(100-140)% увеличение энергетического щита(10-15)% ускорение восстановления после оглушения и блока15% повышение скорости передвижения20% повышение скорости передвижения при полном здоровьеШавронн помчалась к Изуверу,последнему оплоту на пути каруи. до Ход ШавроннХод ШавроннСапоги ученикаКачество: +20%Энерг. щит: (46-54)Требуется Уровень 32, 59 Инт+10 к ловкости+(20-30) к интеллекту(100-140)% увеличение энергетического щита(10-15)% ускорение восстановления после оглушения и блока15% повышение скорости передвижения20% повышение скорости передвижения при полном здоровьеРегенерация 1% энергетического щита в секундуЛодки каруи приблизились к цели,прямо к последней западне Шавронн..Победить Шавронн Тёмную в Жатвае в 4 акте, пока у тебя есть Бег ШавроннБег ШавроннСапоги ученикаКачество: +20%Энерг. щит: (46-54)Требуется Уровень 32, 59 Инт+10 к ловкости+(20-30) к интеллекту(100-140)% увеличение энергетического щита(10-15)% ускорение восстановления после оглушения и блока15% повышение скорости передвижения20% повышение скорости передвижения при полном здоровьеШавронн помчалась к Изуверу,последнему оплоту на пути каруи..1Похоронный звонИзменение Колокола мёртвыхКолокол мёртвыхПозолоченный саладКачество: +20%Броня: (348-468)Уклонение: 108Требуется Уровень 33, 38 Сила, 38 ЛовкДобавляет от 10 до 20 физического урона к атакам+(20-30) к силе+(20-30) к ловкости+(200-300) к броне20% увеличение урона в ближнем боюНельзя похищать при малом количестве здоровьяДа не услышите вы звона его. в Набат мёртвыхНабат мёртвыхПозолоченный саладКачество: +20%Броня: (348-468)Уклонение: 108Требуется Уровень 33, 38 Сила, 38 ЛовкДобавляет от 10 до 20 физического урона к атакам+(20-30) к силе+(20-30) к ловкости+(200-300) к броне20% увеличение урона в ближнем боюНельзя похищать при малом количестве здоровья20% повышение скорости атаки, сотворения чар и передвижения для вас и ближайших союзников, если вы недавно применили боевой кличПусть его эхо гуляет по залам..Победить Легата Гравиция в Лагере Эбенового легиона, имея при себе Колокол мёртвыхКолокол мёртвыхПозолоченный саладКачество: +20%Броня: (348-468)Уклонение: 108Требуется Уровень 33, 38 Сила, 38 ЛовкДобавляет от 10 до 20 физического урона к атакам+(20-30) к силе+(20-30) к ловкости+(200-300) к броне20% увеличение урона в ближнем боюНельзя похищать при малом количестве здоровьяДа не услышите вы звона его..1Природная стойкостьИзменение Весеннего листаВесенний листДощатый каплевидный щитКачество: +20%Шанс заблокировать удар: 22%Броня: (36-43)Энерг. щит: (8-9)Скорость передвижения: -3%Требуется Уровень 7+4% к сопротивлению всем стихиям(80-120)% повышение брони и энергетического щита50% уменьшение длительности заморозки на васРегенерация 3% здоровья в секундуРегенерация 3% здоровья в секунду при малом количестве здоровьяСмерть сменяется жизнью. в ДубДубДощатый каплевидный щитКачество: +20%Шанс заблокировать удар: 22%Броня: (36-43)Энерг. щит: (8-9)Скорость передвижения: -3%Требуется Уровень 40+4% к сопротивлению всем стихиям(80-120)% повышение брони и энергетического щита+(100-150) к максимуму здоровья50% уменьшение длительности заморозки на васРегенерация 3% здоровья в секундуРегенерация 3% здоровья в секунду при малом количестве здоровьяДаже кряжистое дерево сперва было ростком..Победить Калафа, Дробителя черепов, имея при себе Весенний листВесенний листДощатый каплевидный щитКачество: +20%Шанс заблокировать удар: 22%Броня: (36-43)Энерг. щит: (8-9)Скорость передвижения: -3%Требуется Уровень 7+4% к сопротивлению всем стихиям(80-120)% повышение брони и энергетического щита50% уменьшение длительности заморозки на васРегенерация 3% здоровья в секундуРегенерация 3% здоровья в секунду при малом количестве здоровьяСмерть сменяется жизнью..1Пробуждение кошмараИзменение Личины МалахаяЛичина МалахаяЖелезная маскаКачество: +20%Уклонение: 57Энерг. щит: 12Требуется Уровень 17, 21 Ловк, 21 Инт(15-30)% увеличение урона от чар+20 к силе(20-30)% увеличение урона от молнии+10% к сопротивлению молнииМагия кровиПолная убеждённостьЗа оживление первого Стража вечных  Малахай заплатил серебром своей души. в Пробуждение МалахаяПробуждение МалахаяЖелезная маскаКачество: +20%Уклонение: 57Энерг. щит: 12Требуется Уровень 60, 21 Ловк, 21 Инт(15-30)% увеличение урона от чар+20 к силе+10% к сопротивлению всем стихиямДобавляет от (42-54) до (78-88) урона от холода к чарам, если не удержано здоровьеДобавляет от (54-64) до (96-107) урона от огня к чарам, если не удержано здоровьеДобавляет от (5-14) до (160-173) урона от молнии к чарам, если не удержано здоровьеМагия кровиПолная убеждённостьНе бывает слишком высокой платы за власть.Есть только люди, которым не хватает твёрдости заплатить..Победить Пожирателя душ на Карте сердцаКарта сердцаУровень области: 81Уровень карты: 14Редактор тега гильдии: ûЧёрные, чудовищные мосты переброшены через реки вязкой жижи. Всё неестественно.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе Личину МалахаяЛичина МалахаяЖелезная маскаКачество: +20%Уклонение: 57Энерг. щит: 12Требуется Уровень 17, 21 Ловк, 21 Инт(15-30)% увеличение урона от чар+20 к силе(20-30)% увеличение урона от молнии+10% к сопротивлению молнииМагия кровиПолная убеждённостьЗа оживление первого Стража вечных  Малахай заплатил серебром своей души..1Путь Великого вождяИзменение Знака КаомаЗнак КаомаКольцо с кораллом+(20-30) к максимуму здоровья+(10-20) к силе+(2-4) здоровья за каждый удар атаками по врагу+1 к максимуму зарядов выносливостиЗаморский дар,знак для Каомавести каруи в Рэкласт. в Путь КаомаПуть КаомаКольцо с коралломТребуется Уровень 32+(20-30) к максимуму здоровья+(10-20) к силеРегенерация 0.2% здоровья в секунду за заряд выносливости+(2-4) здоровья за каждый удар атаками по врагу+1 к максимуму зарядов выносливостиКаом повёл народ каруи через мореи оросил чужую землю кровью соплеменников..Победить Каома, имея при себе Знак КаомаЗнак КаомаКольцо с кораллом+(20-30) к максимуму здоровья+(10-20) к силе+(2-4) здоровья за каждый удар атаками по врагу+1 к максимуму зарядов выносливостиЗаморский дар,знак для Каомавести каруи в Рэкласт..1Разрыв во времениУлучшение Объятие времениОбъятие времениКольцо с лунным камнемТребуется Уровень 22+(15-25) к максимуму энергетического щита(10-15)% повышение скорости атаки(5-10)% повышение скорости сотворения чар+(15-25) к максимуму энергетического щита15% повышение скорости регенерации маныПуты времени имеют ослабленный на 50% эффект на вас«Время ускользает от нас, простых смертных.Я только восстанавливаю справедливость».- Дориани, придворный волшебник до Извив времениИзвив времениКольцо с лунным камнемТребуется Уровень 64+(15-25) к максимуму энергетического щита(10-15)% повышение скорости атаки(5-10)% повышение скорости сотворения чар+(40-45) к максимуму энергетического щита15% повышение скорости регенерации маны(-10-10)% увеличение длительности эффекта уменияПуты времени не имеют воздействия"Бег времени неумолимдаже для великого мага."- Дориани, придворный волшебник.Победить Мирохода в Карте лаборатории , пока у тебя есть Объятие времениОбъятие времениКольцо с лунным камнемТребуется Уровень 22+(15-25) к максимуму энергетического щита(10-15)% повышение скорости атаки(5-10)% повышение скорости сотворения чар+(15-25) к максимуму энергетического щита15% повышение скорости регенерации маныПуты времени имеют ослабленный на 50% эффект на вас«Время ускользает от нас, простых смертных.Я только восстанавливаю справедливость».- Дориани, придворный волшебник.1Сердце слугиИзменение Грозовой тучиГрозовая тучаДлинный лукЛукКачество: +20%Урон от стихий: 1-85Шанс критического удара: 6.00%Атак в секунду: (1.77-1.95)Дальность оружия: 120Требуется Уровень 9, 38 ЛовкНе наносит физический уронДобавляет от 1 до 85 урона от молнии(36-50)% повышение скорости атакиВека совершенствования ковки доспеховпревратили войска Вечной Империив прекрасные мишени для молний. в ШтормШтормДлинный лукЛукКачество: +20%Урон от стихий: 1-85Шанс критического удара: 6.00%Атак в секунду: (1.77-1.95)Дальность оружия: 120Требуется Уровень 32, 38 ЛовкНе наносит физический урон100% увеличение урона от молнииДобавляет от 1 до 85 урона от молнии(36-50)% повышение скорости атакиТам, где сталкиваются стальные тучи,наверняка разразится гроза..Победить Фиделиса, имея при себе Грозовую тучюГрозовая тучаДлинный лукЛукКачество: +20%Урон от стихий: 1-85Шанс критического удара: 6.00%Атак в секунду: (1.77-1.95)Дальность оружия: 120Требуется Уровень 9, 38 ЛовкНе наносит физический уронДобавляет от 1 до 85 урона от молнии(36-50)% повышение скорости атакиВека совершенствования ковки доспеховпревратили войска Вечной Империив прекрасные мишени для молний..1Серебряный лесИзменение Серебряной ветвиСеребряная ветвьГрубый лукЛукКачество: +20%Физический урон: от (10-11) до (26-28.6)Шанс критического удара: 5.00%Атак в секунду: 1.54Дальность оружия: 120+1 к уровню размещённых камней лука(80-100)% увеличение физического урона10% повышение скорости атаки+30 к меткости+10 маны за убийство«Природа сама о себе позаботится». - Хайрри из народа каруи в Серебряный прутСеребряный прутГрубый лукЛукКачество: +20%Физический урон: от (40-66) до (126-160.6)Шанс критического удара: 5.00%Атак в секунду: 1.54Дальность оружия: 120Требуется Уровень 36+1 к уровню размещённых камней+1 к уровню размещённых камней лука(80-100)% увеличение физического уронаДобавляет от (15-25) до (50-60) физического урона10% повышение скорости атаки+30 к меткости+10 маны за убийствоОдинокому дереву никто не мешает расти..Победить Тардия, Браконьера в Пойме реки, имея при себе Серебряную ветвьСеребряная ветвьГрубый лукЛукКачество: +20%Физический урон: от (10-11) до (26-28.6)Шанс критического удара: 5.00%Атак в секунду: 1.54Дальность оружия: 120+1 к уровню размещённых камней лука(80-100)% увеличение физического урона10% повышение скорости атаки+30 к меткости+10 маны за убийство«Природа сама о себе позаботится». - Хайрри из народа каруи.1Слепая вераИзменение ГномонаГномонЗолотой амулетТребуется Уровень 8(12-20)% повышение редкости найденных предметов+10 к ловкостиДобавляет от 12 до 24 урона от огня к атакам+(100-150) к меткости+(100-150) к уклонению+20% к сопротивлению огнюСвет познания бывает ослепительным. в ЭфигонЭфигонЗолотой амулетТребуется Уровень 57(12-20)% повышение редкости найденных предметов+25 к ловкостиДобавляет от 12 до 24 урона от огня к атакам+(100-150) к меткости+(100-150) к уклонению+(20-30)% к сопротивлению огнюОслепленные враги не могут уклониться от ваших ударовУрон пробивает 10% сопротивления огню ослеплённых враговОт света мы обзавелись тенямии с темнотой связали имена..Победить Бартола, Непорочного на Карте дома с привидениямиКарта дома с привидениямиУровень области: 72Уровень карты: 5Редактор тега гильдии: kЗабытые и полные печали, эти некогда величественные развалины скрывают грехи падшего рода.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе ГномонГномонЗолотой амулетТребуется Уровень 8(12-20)% повышение редкости найденных предметов+10 к ловкостиДобавляет от 12 до 24 урона от огня к атакам+(100-150) к меткости+(100-150) к уклонению+20% к сопротивлению огнюСвет познания бывает ослепительным..1Слепящий светИзменение Затмения СолярисЗатмение СолярисКристальный жезлЖезлКачество: +20%Физический урон: 33.6-62.4Урон от стихий: от (30-45) до (60-80)Шанс критического удара: 7.00%Атак в секунду: (1.38-1.43)Дальность оружия: 120Требуется Уровень 45, 146 Инт(29-33)% увеличение урона от чарДобавляет от (30-45) до (60-80) урона от огня(6-10)% повышение скорости атаки+(27-33)% к глобальному множителю критического удара20% увеличение радиуса обзораБлижайшие враги получают ослепление(120-140)% повышение шанса критического удара по ослепленным врагамКаждые десять лет Лунарис глотает Солярис. Каждый раз Солярис рождается заново. в Солнечную КоронуСолнечная КоронаКристальный жезлЖезлКачество: +20%Физический урон: 33.6-62.4Урон от стихий: от (30-45) до (60-80)Шанс критического удара: 7.00%Атак в секунду: (1.38-1.43)Дальность оружия: 120Требуется Уровень 63, 146 Инт(29-33)% увеличение урона от чарВызывает срабатывание Слепящей ауры 20 уровня, если экипированДобавляет от (30-45) до (60-80) урона от огня(6-10)% повышение скорости атаки+(27-33)% к глобальному множителю критического удара20% увеличение радиуса обзора(120-140)% повышение шанса критического удара по ослепленным врагамУвеличения и уменьшения радиуса обзора также действуют на меткостьДобавляет от (145-157) до (196-210) урона от огня к ударам этим оружием по ослепленным врагамЛегенда гласит, что Солярис возьмёт над Лунарис верх, и ночь будет изгнана навсегда..Победить Хоруса, Небесную грань на Карте храмаКарта храмаУровень области: 70Уровень карты: 3Редактор тега гильдии: -Безупречно белый камень возносится из бездны. Совершенство.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе Затмение СолярисЗатмение СолярисКристальный жезлЖезлКачество: +20%Физический урон: 33.6-62.4Урон от стихий: от (30-45) до (60-80)Шанс критического удара: 7.00%Атак в секунду: (1.38-1.43)Дальность оружия: 120Требуется Уровень 45, 146 Инт(29-33)% увеличение урона от чарДобавляет от (30-45) до (60-80) урона от огня(6-10)% повышение скорости атаки+(27-33)% к глобальному множителю критического удара20% увеличение радиуса обзораБлижайшие враги получают ослепление(120-140)% повышение шанса критического удара по ослепленным врагамКаждые десять лет Лунарис глотает Солярис. Каждый раз Солярис рождается заново..1Тёмные инстинктыУлучшение Лисья теньЛисья теньОхотничья кожанкаКачество: +20%Уклонение: (433-484)Скорость передвижения: -3%Требуется Уровень 25, 73 ЛовкДобавляет от 5 до 12 физического урона к атакам+(20-30) к ловкости+500 к уклонению при полном здоровье(50-70)% увеличение уклонения10% повышение скорости передвиженияЧтобы поймать животное, думай как оно. до Лисья удачаЛисья удачаОхотничья кожанкаКачество: +20%Уклонение: (1572-2038)Скорость передвижения: -3%Требуется Уровень 54, 73 ЛовкДобавляет от 5 до 12 физического урона к атакам+(20-30) к ловкости+1500 к уклонению при полном здоровье+(400-500) к уклонению(120-150)% увеличение уклонения10% повышение скорости передвиженияВраги неудачливы при нанесении вам урона от ударов, пока у вас полное здоровьеСледуй своим основным инстинктам.Остальное приложится само собой..Победить Аракаали, Прядильщицу теней на 2 уровне Храма разложения 7 акта, пока у тебя есть Лисья теньЛисья теньОхотничья кожанкаКачество: +20%Уклонение: (433-484)Скорость передвижения: -3%Требуется Уровень 25, 73 ЛовкДобавляет от 5 до 12 физического урона к атакам+(20-30) к ловкости+500 к уклонению при полном здоровье(50-70)% увеличение уклонения10% повышение скорости передвиженияЧтобы поймать животное, думай как оно..1Увесистые тумакиУлучшение Разбиватель головРазбиватель головКолчан зазубренных стрелТребуется Уровень 5Добавляет от 1 до 4 физического урона к атакам луками(20-25)% снижение порога оглушения врагов25% снижение скорости снарядов(60-80)% увеличение длительности оглушения на врагахДобавляет от 6 до 10 физического урона к атакам лукамиНатягивай сильнее. Рази навылет. до Падение скалыПадение скалыКолчан зазубренных стрелТребуется Уровень 5Добавляет от 1 до 4 физического урона к атакам луками(20-25)% снижение порога оглушения врагов25% снижение скорости снарядов(60-80)% увеличение длительности оглушения на врагахДобавляет от 6 до 10 физического урона к атакам луками50% шанс удвоить длительность оглушенияСамый большой камень оставляет самуюглубокую выбоину..Победить Шпата на Старых полях, пока у тебя есть Разбиватель головРазбиватель головКолчан зазубренных стрелТребуется Уровень 5Добавляет от 1 до 4 физического урона к атакам луками(20-25)% снижение порога оглушения врагов25% снижение скорости снарядов(60-80)% увеличение длительности оглушения на врагахДобавляет от 6 до 10 физического урона к атакам лукамиНатягивай сильнее. Рази навылет..1Удовольствие через больУлучшение Терновый венецТерновый венецВенок из лозыКачество: +20%Энерг. щит: (79-103)+(60-80) к максимуму энергетического щитаОтражает 5 физического урона атакующим в ближнем бою+5 входящего физического урона при получении удара от атакВдохновение больюС осторожностью бери, примеряй неспешно.Шипы снаружи и внутри, о том тебе известно. до Венец мученикаВенец мученикаВенок из лозыКачество: +20%Энерг. щит: (211-259)Требуется Уровень 52+(60-80) к максимуму энергетического щита+(110-130) к максимуму энергетического щитаОтражает 5 физического урона атакующим в ближнем бою+5 входящего физического урона при получении удара от атакВдохновение больюПозволь ему пронзить, позволь пролиться крови.Пусть малая душа растёт себе на воле..Победить Шавронн Тёмную в Жатве, пока у тебя есть Терновый венецТерновый венецВенок из лозыКачество: +20%Энерг. щит: (79-103)+(60-80) к максимуму энергетического щитаОтражает 5 физического урона атакующим в ближнем бою+5 входящего физического урона при получении удара от атакВдохновение больюС осторожностью бери, примеряй неспешно.Шипы снаружи и внутри, о том тебе известно..1Уста кошмаровИзменение Чаши ужасовЧаша ужасовВоинский баклерКачество: +20%Шанс заблокировать удар: 31%Уклонение: (217-246)Энерг. щит: (60-84)Скорость передвижения: -3%Требуется Уровень 29, 74 Ловк9% повышение скорости передвижения+1 к уровню размещённых камней проклятий(30-50)% увеличение уклонения+(50-70) к максимуму энергетического щита+(40-50) к максимуму здоровья+5% шанс блока10% шанс испугать врагов при блокеУмения проклятий имеют 100% увеличение длительности эффектов уменийОко за око, проклятье за проклятье. в Жажду кошмаровЖажда кошмаровВоинский баклерКачество: +20%Шанс заблокировать удар: 31%Уклонение: (217-246)Энерг. щит: (60-84)Скорость передвижения: -3%Требуется Уровень 32, 74 Ловк9% повышение скорости передвижения+1 к уровню размещённых камней проклятий(30-50)% увеличение уклонения+(40-50) к максимуму здоровья+(50-70) к максимуму энергетического щитаУмения проклятий имеют 100% увеличение длительности эффектов умений+5% шанс блока10% шанс испугать врагов при блоке1% урона по проклятым врагам похищается в виде здоровьяЧто вышло, то должно войти..Победить Доэдре в Жатве в 4 акте, в Отравленных каналах в 8 акте или на Карте сердцаКарта сердцаУровень области: 81Уровень карты: 14Редактор тега гильдии: ûЧёрные, чудовищные мосты переброшены через реки вязкой жижи. Всё неестественно.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе Чашу ужасовЧаша ужасовВоинский баклерКачество: +20%Шанс заблокировать удар: 31%Уклонение: (217-246)Энерг. щит: (60-84)Скорость передвижения: -3%Требуется Уровень 29, 74 Ловк9% повышение скорости передвижения+1 к уровню размещённых камней проклятий(30-50)% увеличение уклонения+(50-70) к максимуму энергетического щита+(40-50) к максимуму здоровья+5% шанс блока10% шанс испугать врагов при блокеУмения проклятий имеют 100% увеличение длительности эффектов уменийОко за око, проклятье за проклятье..1УчительУлучшает Матуа ТапунаМатуа ТапунаПотёртый щит духаКачество: +20%Шанс заблокировать удар: 24%Энерг. щит: (32-40)Скорость передвижения: -3%Требуется Уровень 23, 60 Инт(5-10)% увеличение урона от чар+2 к уровню размещённых камней приспешников(40-80)% увеличение энергетического щита+(15-25) к максимуму маны10% усиление эффекта аур не-проклятий от ваших умений на ваших приспешникахРазливает смолу при получении критического удараTar lasts 4.5 seconds (скрытый)When hit by a Critical Strike, creates patches of Tar reducing Movement Speed by 50% (скрытый)10% усиление эффекта аур не-проклятий от ваших уменийТы провел меня через жизнь, такпозволь носить тебя после смерти. до Вакатутуки о МатуаВакатутуки о МатуаПотёртый щит духаКачество: +20%Шанс заблокировать удар: 24%Энерг. щит: (96-200)Скорость передвижения: -3%Требуется Уровень 63, 60 Инт(5-10)% увеличение урона от чар+3 к уровню размещённых камней приспешников+(40-80) к максимуму энергетического щита(40-80)% увеличение энергетического щита+(15-25) к максимуму маны20% усиление эффекта аур не-проклятий от ваших умений на ваших приспешниках20% усиление эффекта аур не-проклятий от ваших уменийРазливает смолу при блокеВы и ближайшие союзники регенерируете 5% здоровья в секунду, если вы недавно блокировали ударТы провел меня через жизнь, так  позволь носить тебя после смерти..Убейте Конлия, Нераскаявшегося на Карте базиликиКарта базиликиУровень области: 70Уровень карты: 3Редактор тега гильдии: »Построена, чтобы множить эхо молитв, никогда не достигающих бога.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые. имея Матуа ТапунаМатуа ТапунаПотёртый щит духаКачество: +20%Шанс заблокировать удар: 24%Энерг. щит: (32-40)Скорость передвижения: -3%Требуется Уровень 23, 60 Инт(5-10)% увеличение урона от чар+2 к уровню размещённых камней приспешников(40-80)% увеличение энергетического щита+(15-25) к максимуму маны10% усиление эффекта аур не-проклятий от ваших умений на ваших приспешникахРазливает смолу при получении критического удараTar lasts 4.5 seconds (скрытый)When hit by a Critical Strike, creates patches of Tar reducing Movement Speed by 50% (скрытый)10% усиление эффекта аур не-проклятий от ваших уменийТы провел меня через жизнь, такпозволь носить тебя после смерти..1Хладнокровная яростьИзменение Кипящей кровиКипящая кровьКольцо с коралломТребуется Уровень 24+(20-30) к максимуму здоровьяДобавляет от (12-15) до (25-30) урона от огня к атакам+(20-40) к максимуму здоровья+(10-15)% к сопротивлению холоду75% ослабление эффекта охлаждения на вас10% повышение скорости передвижения, если подожжёнВ отваге много от ярости. в Зимний узорЗимний узорКольцо с коралломТребуется Уровень 53+(20-30) к максимуму здоровьяДобавляет от (12-15) до (25-30) урона от огня к атакамДобавляет от (12-15) до (25-30) урона от холода к атакам+(20-40) к максимуму здоровья+(25-30)% к сопротивлению холоду10% повышение скорости передвижения, если подожжёнОхлаждение имеет на вас обратный эффектГнев — лучше топливо непокорности..Победить Ожеледь на Карте пляжаКарта пляжаУровень области: 81Уровень карты: 14Редактор тега гильдии: XРай, вечно наполняемый бессчётными, полными жизни волнами.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., имея при себе Кипящую кровьКипящая кровьКольцо с коралломТребуется Уровень 24+(20-30) к максимуму здоровьяДобавляет от (12-15) до (25-30) урона от огня к атакам+(20-40) к максимуму здоровья+(10-15)% к сопротивлению холоду75% ослабление эффекта охлаждения на вас10% повышение скорости передвижения, если подожжёнВ отваге много от ярости..1Холодная жадностьУлучшение Молот КамерииМолот КамерииКамнетёсОдноручная булаваКачество: +20%Физический урон: от (140.4-162) до (262.6-303)Урон от стихий: от (10-20) до (30-50)Шанс критического удара: (5.75%-7.00%)Атак в секунду: 1.15Дальность оружия: 11Требуется Уровень 60, 212 Сила15% снижение порога оглушения врагов(140-180)% увеличение физического уронаДобавляет от (10-20) до (30-50) урона от холода(15-40)% повышение шанса критического удара(30-40)% увеличение урона от холода от умений атак40% повышение редкости предметов, выпадающих из убитых замороженных врагов– Ты заберёшь это сокровищетолько через мой труп!– Именно так я и поступлю. до Корысть КамерииКорысть КамерииКамнетёсОдноручная булаваКачество: +20%Физический урон: от (169-204) до (306.8-366)Шанс критического удара: (5.75%-7.00%)Атак в секунду: 1.15Дальность оружия: 11Требуется Уровень 60, 212 Сила15% снижение порога оглушения врагов(140-180)% увеличение физического уронаДобавляет от (11-14) до (17-21) физического урона(15-40)% повышение шанса критического удара40% повышение редкости предметов, выпадающих из убитых замороженных врагов(30-40)% увеличение урона от холода от умений атакВызывает срабатывание Взрыва сосулек 20 уровня когда вы наносите удар по замороженному врагу«Прошу тебя, забирай всё, только не убивай меня!»«Но ведь тогда я не получу всего, чего хочу. Верно?».Победить Кусочек зимы на Карте водотоковКарта водотоковУровень области: 74Уровень карты: 7Редактор тега гильдии: ÌНебесная река далека от страждущих её вод.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Молот КамерииМолот КамерииКамнетёсОдноручная булаваКачество: +20%Физический урон: от (140.4-162) до (262.6-303)Урон от стихий: от (10-20) до (30-50)Шанс критического удара: (5.75%-7.00%)Атак в секунду: 1.15Дальность оружия: 11Требуется Уровень 60, 212 Сила15% снижение порога оглушения врагов(140-180)% увеличение физического уронаДобавляет от (10-20) до (30-50) урона от холода(15-40)% повышение шанса критического удара(30-40)% увеличение урона от холода от умений атак40% повышение редкости предметов, выпадающих из убитых замороженных врагов– Ты заберёшь это сокровищетолько через мой труп!– Именно так я и поступлю.1Чёрная преданностьУлучшение Благословение ДжофриБлагословение ДжофриЛатунный молотДвуручная булаваКачество: +20%Физический урон: 128-192Урон от стихий: 11-23Шанс критического удара: 5.00%Атак в секунду: 1.20Дальность оружия: 13Требуется Уровень 27, 92 Сила30% увеличение длительности оглушения на врагах200% увеличение физического уронаДобавляет от 11 до 23 урона от холода(10-20)% увеличение длительности оглушения на врагахНикогда не наносит критических ударов«Упрямца можно убедить одним быстрым ударом».- Джофри, Старший блюститель Фрекии до Благочестие ДжофриБлагочестие ДжофриЛатунный молотДвуручная булаваКачество: +20%Физический урон: от (262.4-278.4) до (403.2-419.2)Урон от стихий: 11-23Шанс критического удара: 5.00%Атак в секунду: 1.20Дальность оружия: 13Требуется Уровень 61, 92 Сила30% увеличение длительности оглушения на врагахВызывает срабатывание Стихийной защиты 20 уровня при нанесении удара, пока на вас действует проклятие200% увеличение физического уронаДобавляет от (42-47) до (66-71) физического уронаДобавляет от 11 до 23 урона от холода(10-20)% увеличение длительности оглушения на врагахНикогда не наносит критических ударов"Мой бог не жалует всепрощение. Лучше покайся в грехах мне."- Старший блюститель Джофри во Фрекийском храме.Победить Литания, Чёрного просителя на Карте палаты древностейКарта палаты древностейУровень области: 76Уровень карты: 9Редактор тега гильдии: 1Реликвии запретного прошлого. Спрятаны. Позабыты.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Благословение ДжофриБлагословение ДжофриЛатунный молотДвуручная булаваКачество: +20%Физический урон: 128-192Урон от стихий: 11-23Шанс критического удара: 5.00%Атак в секунду: 1.20Дальность оружия: 13Требуется Уровень 27, 92 Сила30% увеличение длительности оглушения на врагах200% увеличение физического уронаДобавляет от 11 до 23 урона от холода(10-20)% увеличение длительности оглушения на врагахНикогда не наносит критических ударов«Упрямца можно убедить одним быстрым ударом».- Джофри, Старший блюститель Фрекии.1Чудовищный роаУлучшение Красный клювКрасный клювРжавый мечОдноручный мечКачество: +20%Физический урон: 10.2-25.5Шанс критического удара: 5.00%Атак в секунду: 1.71Дальность оружия: 1140% повышение глобальной меткости100% увеличение урона при малом количестве здоровья50% увеличение физического уронаДобавляет от 2 до 6 физического урона10% повышение скорости атаки+(20-30) к максимуму здоровья+2 здоровья за каждого задетого атакой врагаУтихнет бой, и кровь уйдет в песок. до Жуткий клювЖуткий клювРжавый мечОдноручный мечКачество: +20%Физический урон: от (147.9-161.5) до (224.4-236.3)Шанс критического удара: 5.00%Атак в секунду: 1.71Дальность оружия: 11Требуется Уровень 6140% повышение глобальной меткости100% увеличение урона при малом количестве здоровья50% увеличение физического уронаДобавляет от (83-91) до (123-130) физического урона10% повышение скорости атаки+(20-30) к максимуму здоровья+2 здоровья за каждого задетого атакой врагаВы получаете эффект Боевой раж при малом количестве здоровьяКогда приближается смерть, с ней об руку идёт инстинкт выживания..Победить Остроголова на Карте трясиныКарта трясиныУровень области: 82Уровень карты: 15Редактор тега гильдии: yСлой за слоем - сплошь смерть и гниение. Отвратительно.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Красный клювКрасный клювРжавый мечОдноручный мечКачество: +20%Физический урон: 10.2-25.5Шанс критического удара: 5.00%Атак в секунду: 1.71Дальность оружия: 1140% повышение глобальной меткости100% увеличение урона при малом количестве здоровья50% увеличение физического уронаДобавляет от 2 до 6 физического урона10% повышение скорости атаки+(20-30) к максимуму здоровья+2 здоровья за каждого задетого атакой врагаУтихнет бой, и кровь уйдет в песок..1Штормовой шпильУлучшение Сердце буриСердце буриЦарский посохПосохКачество: +20%Физический урон: от (54-59.4) до (162-178.2)Урон от стихий: от (25-35) до (45-60), от (1-10) до (70-90)Шанс критического удара: (7.80%-8.78%)Атак в секунду: 1.15Дальность оружия: 13Требуется Уровень 28, 51 Сила, 51 Инт+18% шанс блокировать урон от атак с посохом в руках(80-100)% увеличение физического уронаДобавляет от (25-35) до (45-60) урона от холодаДобавляет от (1-10) до (70-90) урона от молнии(20-35)% повышение шанса критического удараНа вас нельзя наложить шок, пока вы охлаждены50% шанс наложить шок на охлаждённых врагов«От бури надо укрываться в самом её центре». до Штормовой валШтормовой валЦарский посохПосохКачество: +20%Физический урон: от (322.8-344.4) до (418.8-439.2)Шанс критического удара: (7.80%-8.78%)Атак в секунду: 1.15Дальность оружия: 13Требуется Уровень 60, 51 Сила, 51 Инт+18% шанс блокировать урон от атак с посохом в руках+15% шанс блокировать урон от атак с посохом в рукахДобавляет от (242-260) до (268-285) физического урона(20-35)% повышение шанса критического удара50% физического урона становится уроном от холода50% физического урона становится уроном от молнииНа вас нельзя наложить шок, пока вы охлаждены(30-40)% шанс наложить охлаждение на 4 секунды на атакующих врагов при блоке(30-40)% шанс наложить шок на атакующих на 4 секунды при блокеТы не можешь управлять бурей,однако можешь её использовать..Победить Попоро, высокий шпиль на Карте плоскогорьяКарта плоскогорьяУровень области: 80Уровень карты: 13Крутые утёсы диктуют деревьям, где можно, а где нельзя расти.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые., пока у тебя есть Сердце буриСердце буриЦарский посохПосохКачество: +20%Физический урон: от (54-59.4) до (162-178.2)Урон от стихий: от (25-35) до (45-60), от (1-10) до (70-90)Шанс критического удара: (7.80%-8.78%)Атак в секунду: 1.15Дальность оружия: 13Требуется Уровень 28, 51 Сила, 51 Инт+18% шанс блокировать урон от атак с посохом в руках(80-100)% увеличение физического уронаДобавляет от (25-35) до (45-60) урона от холодаДобавляет от (1-10) до (70-90) урона от молнии(20-35)% повышение шанса критического удараНа вас нельзя наложить шок, пока вы охлаждены50% шанс наложить шок на охлаждённых врагов«От бури надо укрываться в самом её центре»..1Эксгумация верыУлучшает Стук-ПостукСтук-ПостукБольшая колотушкаДвуручная булаваКачество: +20%Физический урон: от (137.6-146.2) до (281.6-299.2)Шанс критического удара: 5.00%Атак в секунду: 1.25Дальность оружия: 13Требуется Уровень 40, 104 Сила30% увеличение длительности оглушения на врагах+1 к уровню размещённых камней ближнего боя+1 к уровню размещённых камней приспешников(200-220)% увеличение физического урона25% увеличение максимума маныПриспешники имеют (20-40)% увеличение максимума здоровья15% увеличение длительности эффекта умения20% снижение требований к силеИстинно верующие послужат даже после смерти. до Ошибка Lua: Ошибка: таблица _pageData не найдена...Убейте Толман, Эксгуматора в Карта мавзолея имея у мебя Стук-ПостукСтук-ПостукБольшая колотушкаДвуручная булаваКачество: +20%Физический урон: от (137.6-146.2) до (281.6-299.2)Шанс критического удара: 5.00%Атак в секунду: 1.25Дальность оружия: 13Требуется Уровень 40, 104 Сила30% увеличение длительности оглушения на врагах+1 к уровню размещённых камней ближнего боя+1 к уровню размещённых камней приспешников(200-220)% увеличение физического урона25% увеличение максимума маныПриспешники имеют (20-40)% увеличение максимума здоровья15% увеличение длительности эффекта умения20% снижение требований к силеИстинно верующие послужат даже после смерти..1
+Буря[]
+Все эти бури, за исключением Ваальских ветров, дают 30% дополнительного количества и качества выпадаемых предметов, которые складываются с другими источниками количества и качества выпадаемых предметов, влияющими на область.
+
+ПредметНаградаЗадачаСтоимостьпечатиБуря нежитиВ областях с этим активным пророчеством количество и качество предметов увеличены на 30%.Пророчество завершится при входе в область, область будет содержать бурю.2Ветра ваалВ областях с этим активным пророчеством количество и качество предметов увеличены на 30%.Пророчество завершится при входе в область, область будет содержать бурю.2Гром и молнииВ областях с этим активным пророчеством количество и качество предметов увеличены на 30%.Пророчество завершится при входе в область, область будет содержать бурю.2Дробящий шквалВ областях с этим активным пророчеством количество и качество предметов увеличены на 30%.Пророчество завершится при входе в область, область будет содержать бурю.2Огонь с небесВ областях с этим активным пророчеством количество и качество предметов увеличены на 30%.Пророчество завершится при входе в область, область будет содержать бурю.2Снег на головуВ областях с этим активным пророчеством количество и качество предметов увеличены на 30%.Пророчество завершится при входе в область, область будет содержать бурю.2
+О встречах[]
+Награда: Уникальный предмет[]
+ПредметНаградаЗадачаСтоимостьпечатиБездушная тварьС монстра выпадет Причуда АтзириПричуда АтзириАмулет из ракушекТребуется Уровень 16(20-30)% повышение скорости регенерации маны+100 к максимуму маны(16-24)% увеличение максимума маны(80-100)% повышение скорости регенерации маныПредметы и камни имеют 25% понижение требований к характеристикам«Мир — лишь клочок чистого и ровного пергамента.С разных краев мы пишем: Добро и Зло, Черное и Белое.Но истина в том, что обе стороны суть одно и то же».- Джабари, советник из народа ваал.Победите редкого монстра Древний механизм на одной из локаций:
+Акт 2 - Руины ваал
+Акт 2 - Пещеры
+Акт 2 - Древняя пирамида
+Акт 7 - Храм разложения — уровень 2
+Вершина жертвоприношенийВершина жертвоприношенийУровень области: 70Area does not contain Rogue Exiles (скрытый)Перейдите на эту карту из Лаборатории вечных или с помощью своей Машины картоходца. Карты одноразовые.2Ветер и громУбейте Стяга разрядов и с него выпадет Рассекатель ветраРассекатель ветраИмператорский лукЛукКачество: +20%Физический урон: 24-93.6Урон от стихий: от (48-60) до (72-90), от 1 до (120-150)Шанс критического удара: (6.50%-7.00%)Атак в секунду: (1.59-1.67)Дальность оружия: 120Требуется Уровень 66, 212 Ловк(20-24)% увеличение урона от стихий от умений атакДобавляет от (48-60) до (72-90) урона от холодаДобавляет от 1 до (120-150) урона от молнии(10-15)% повышение скорости атаки(30-40)% повышение шанса критического удара15% увеличение количества предметов, выпадающих из убитых замороженных врагов30% повышение редкости предметов, выпадающих из убитых поражённых шоком врагов«Он охотится: тих, как падающий снег. Неумолим, как ураган»..Убейте редкого Стяга разрядов на одной из следующих локаций:
+Карта агоры
+Карта колоннады
+Карта храма
+Карта помойного пруда
+Карта оскверненного собора2КладовщикИз Кладовщика выпадет случайный уникальный предмет.Kill The Stockkeeper at The Grain Gate in Act 8. The Stockkeeper appears as Undying Outcast or an Undying Worker.3Наперекор волнеПобедите Призрак портового рабочего и с него выпадет Предел РотаПредел РотаЗагнутый лукЛукКачество: +20%Физический урон: от (19.8-22) до (61.2-68)Шанс критического удара: 6.70%Атак в секунду: (1.30-1.35)Дальность оружия: 120Требуется Уровень 18, 65 Ловк+(15-25)% к глобальному множителю критического удара(60-80)% увеличение физического урона(20-40)% увеличение урона от стихий от умений атак(4-8)% повышение скорости атакиУмения поражают целей по цепи: +130% повышение скорости снарядов«Изгнан в море, вот потеха!Мне здесь вольготней, чем на суше».- капитан «Чёрного гребня» Вейлам «Гнилозуб» Рот после смерти.Убить редкого Призрака портового рабочего в одной из перечисленных локаций:
+Акт 3 - Доки
+Акт 4 - Акведук
+Акт 8 - Пристань
+Карта причала
+Карта верфи2Отпущение греховПобедите Бессмертную проповедницу и с него выпадет Табула расаТабула расаМатерчатая безрукавкаКачество: +20%Скорость передвижения: -3%Item has no level requirement and Energy Shield (скрытый)Item has 6 White Sockets and is fully linked (скрытый) после смерти.Убить редкого Бессмертную проповедницу в одной из перечисленных локаций:
+Акт 3 - Перст Господень
+Акт 3 - Верхние этажи Перста Господня
+Акт 8 - Роскошная набережная2Призыв в небытиеПосле убийства Когтистого лучника выпадет Раскаты хаосаРаскаты хаосаЛук из рогаЛукКачество: +20%Физический урон: 31.2-93.6Урон от стихий: от 1 до (275-325)Шанс критического удара: 6.50%Атак в секунду: (1.54-1.61)Дальность оружия: 120Требуется Уровень 64, 212 ЛовкДобавляет от 1 до (275-325) урона от молнии(10-15)% повышение скорости атаки60% урона от молнии становится уроном хаосом10% шанс наложить шокВаш урон хаосом может наложить шокНакладывает на врагов шок такой силы, как если бы по ним нанесли на 300% больше уронаНаложенный вами шок может увеличивать получаемый урон максимум на 100%Зловещий ливень обрушился на нас и увил нитямимолний.Его волшебная сила чернила металл и уязвлялаплоть.Ни спасения нам не было, ни укрытия. Воздухполнился отчаянием..Убить редкого Когтистого лучника в одной из следующих локаций:
+Карта ямы
+Карта музея
+Карта прогулочного парка
+Карта катакомб
+Карта камер
+Карта развалин замка
+Карта колизея
+Карта консерватории
+Карта водотоков2Твёрдая опораПосле убийства монстра, из него выпадет СтранникиСтранникиШерстяные башмакиКачество: +20%Энерг. щит: (16-28)+5 к ловкости(20-40)% повышение скорости регенерации маны+(10-20) к максимуму энергетического щита20% повышение скорости передвиженияНе может быть замороженВесь мир — мой дом..Убить редкого Бурлящего водяного в одной из перечисленных локаций:
+Акт 1 - Кладбище кораблей
+Акт 1 - Грот погибших кораблей
+Акт 1 - Пещера гнева
+Акт 1 - Пещера злобы2Царский кладПосле смерти Атзири, Царица ваал бросит карту Сокровищница Атзири.Убейте Атзири, Царица ваал в одной из локаций:
+Вершина жертвоприношений
+Манящая бездна
+Храм Ацоатль1
+Награда: Валюта[]
+ПредметНаградаЗадачаСтоимостьпечатиАлхимикКак падёт Бессмертный алхимик, он уронит Сферу алхимииСфера алхимииРазмер стопки: 10Улучшает обычный предмет до редкогоЩелкните правой кнопкой мыши по этому объекту, а затем левой по обычному предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift. .Убейте Бессмертного алхимика в одной из локаций:
+Акт 3 - Канализация
+Акт 8 - Сточная яма Доэдре (Отравленные каналы)
+Карта - Камера
+Карта - Клоак
+Карта - Берег (редкая)
+Карта - Канала (редкая)
+Святилище Ольмека3Бог неудачиИз Кадака выпадет 3 сферы соединенияСфера соединенияРазмер стопки: 20Перековывает предмет, изменяя связи между гнёздамиЩелкните правой кнопкой мыши по этому предмету и затем левой по предмету с гнёздами. Значение качества предмета потребляется, чтобы увеличить шансы на получение дополнительных связей.Для разделения щелкните мышкой с зажатой клавишей Shift..Убить Кадуку и Кадака на Утесе.3Выкинуть из памятиСфера очищенияСфера очищенияРазмер стопки: 30Удаляет все свойства с предметаЩелкните правой кнопкой мыши по этому объекту, а затем левой по волшебному или редкому предмету, чтобы использовать.Для разделения щелкните мышкой с зажатой клавишей Shift. 1шт.Победите любого уникального монстра.3Дела минувшиеСвиток мудростиСвиток мудростиРазмер стопки: 40Опознаёт предметЩелкните правой кнопкой мыши по этому объекту и затем левой по неопознанному предмету, чтобы опознать его.Для разделения щелкните мышкой с зажатой клавишей Shift. (15 шт.)Прочитайте любой текст Объекта истории вне города.3ЗараженныйПолучите 1x Сферу ваалСфера ваалРазмер стопки: 10Оскверняет предмет, непредсказуемо изменяя егоЩелкните правой кнопкой мыши по этому объекту, а затем левой по предмету, чтобы осквернить его. Осквернённые предметы не могут быть модифицированы снова.Для разделения щелкните мышкой с зажатой клавишей Shift..Убейте босса в побочной области.1Источники доходаИз монстров выпадет дополнительная валюта.Отправляйтесь в Пещеру злобы в 1 акте в комнату с Мервейл, Сиреной, и победите четыре Бурлящих золота.3Лишнее бремяИз монстра выпадет 10 случайных сфер валюты.Победите случайного монстра.3Разорванные узыИз последнего монстра выпадет 5 сфер соединенияСфера соединенияРазмер стопки: 20Перековывает предмет, изменяя связи между гнёздамиЩелкните правой кнопкой мыши по этому предмету и затем левой по предмету с гнёздами. Значение качества предмета потребляется, чтобы увеличить шансы на получение дополнительных связей.Для разделения щелкните мышкой с зажатой клавишей Shift..Убить группу волшебных монстров со свойством Родословные.2Свержение1x Сфера царейСфера царейРазмер стопки: 10Улучшает волшебный предмет до редкогоЩелкните правой кнопкой мыши по этому объекту, а затем левой по волшебному или редкому предмету, чтобы использовать. Текущие свойства предмета сохранятся и к ним добавится еще одно новое. Качество от катализатора повышает шансы получения свойства, совпадающего с типом качества. Снимает 5% качества от катализаторов при использовании.Для разделения щелкните мышкой с зажатой клавишей Shift.Убейте уникального короля или царицу:
+Атзири, Царица ваал
+Дарессо, Венценосец мечей
+Гарухан, Царица ветров
+Вождь Каом
+Мутировавший вожак
+Царица Великого плетения
+Шакари, Царица песков
+Шиврул Царица козерогов
+Царица костей
+Проклятый монарх
+Оскорбленная царица
+Падшая царица
+Владыка преисподней
+Солнцеликая царица
+Царица грифов (Карта развалинКарта развалинУровень области: 79Уровень карты: 12Редактор тега гильдии: †Пустое эхо былых времён в краю, где давно никто не живёт.Перейдите на эту карту с помощью вашей Машины картоходца. Карты одноразовые. версия Киры)
+Тсоагот, Морской царь
+Волкуур, Бездыханная царица3
+Награда: Ничего[]
+ПредметНаградаЗадачаСтоимостьпечатиБлизнецыН/ДВойти в случайную область. Редкие монстры в этой области дублируются. Эффект похож на Prepared for trouble? How about double?.2Братство некромантовН/ДУбейте четырех некромантов и их приспешников нежити.2Бунт нежитиН/ДGo to The Old Fields (Act 2). The area boss will be Ember of the Past while all monsters are turned into skeletons.3В тисках порчиУбейте Предводителя проклятых.Идите налево от входа в башню в Имперских садах (Акт 3). Предводитель проклятых появится.3Видения утопленниковН/ДВойдите в любую область, которая может содержать трупы, содержащие предметы, особенно в 1 акте: Сырой проход, Побережье, Прибрежный остров, Кладбище кораблей или Грот погибших кораблей. Corpses will be created in the zone which are turnable, like chests to create loot.2Время пахотыН/ДЗайдите в развалины дома, расположенного западнее от портала в Перекрестке (Акт 2).3Вторжение ваалН/ДВ Храме Лунарис найти и победить Эхо ваал, уменьшенную копию Вседуши ваал. Все обычные монстры заменяются врагами Ваала.3Дитя ЛунарисН/ДGo to the right side of waypoint of The Crossroads (Act 2). The Child of Lunaris counts for the unique monster challenge.3Дрожь землиН/ДПосетите любую локацию. Она будет населена пожирателями, эффект будет поход на дрожь земли.2Живое пламяН/ДОтправляйтесь на Побережье (Акт 1) к уникальному монстру Огненная Фурия. Рядом будет уникальный Голем лавы.3Забытые солдатыН/ДGo to The Climb (Act 1). Animated Weapons will spawn around the flag.3ЗавоевательН/ДОбласть содержит боссов вторжения.  Найдите и убейте случайного босса вторжения.2Земля, черви и кровьН/ДПобедите Нежить в области.2Конец страданиямН/ДПобедите редкого монстра. Появится случайный Страдающий дух.3Мёртвые крепышиН/ДПобедить группу из 7 редких зомби.2Нашествие крысН/ДУбейте всех крыс в области.2Нашествие лягушекН/ДПобедите всех лягушек в области.2Невиданная напастьН/ДОткройте ларец. Все обычные призванные монстры станут волшебными.2Непокорная кровьН/ДПосле победы над редким монстром появится Сгусток из пророчества. Он действует так же, как Живая кровь.3Одержимый врагН/ДНайдите и победите одного или нескольких уникальных монстров, которые будут одержимы случайным Страдающим духом. Одержимыми часто становятся боссы карт, так как на карте обычно всего несколько уникальных монстров. Примечательно, что это пророчество также может активироваться в областях со специальными боссами, такими как Атзири, что потенциально сделает бой с ними намного сложнее.2Одичавшая четвёркаН/ДВойдите в карту. Область будет содержать 4 случайных Бродячих изгнанника.2Отзвук ведьмовстваН/ДПодойдите к камням с надписью в Западном лесу, читаете надпись, а после убиваете Эхо Доэдре Тёмного оратора.3ПерерождениеН/ДУбить обычного монстра. Он будет возрожден как редкий монстр со свойством Немезиды.2Проклятый хорН/ДВойдите в  любую область. Область будет содержать морских ведьм.2Противоестественная энергияН/ДEnter The Battlefront (Act 3) and go south-west to the end of the bridge, which is around the "energy shield" barricade. There will spawn a giant Lightning Elemental, called Energy Aberration.3Растление ПерстомН/ДУбейте группу из 5 редких Уродцев на Верхних этажах Перста Господня, которые находятся у подъёмника трупов.3Скрытые резервыН/ДПобедите случайного монстра. Вокруг вашего персонажа появится 10 Приверженцев Дуба.1Сражение за мостН/ДИдите к мосту в Лагере Эбенового легиона (южнее портала). У моста будут Чёрный стражник ненависти и Чёрный стражник гнева.3Стая саранчиН/ДВойдите в любую область. Она будет содержать Маток трупоедов и Мерзких выродков.2Стойкий гарнизонН/ДИдите к Разрушенному мосту (Акт 2). Группа Бессмертных охранников будет находиться в разрушенной крепости.3Убойные парочкиН/ДВойдите на любую карту и количество боссов на ней удвоится.3Цена предательстваН/ДFind a Weathered Carving. Kill the spawning Karui Spirits.3Чудовищное сокровищеН/ДВойдите в карту. Область будет содержать 36 ларцов.Примечание: Это пророчество складывается со свойством Заны Засада.2
+Награда: Прочее[]
+ПредметНаградаЗадачаСтоимостьпечатиБогатый беглецВыпадаемая добыча с бродячего изгнанника будет редкой.Победить бродячего изгнанника.1Дар ЭразмусаНайденный камень будет иметь качество 20%.Найдите камень.1Золотое сердцеИз монстра выпадет дополнительный редкий предмет.Победите редкого монстра.3Испытание во снеОбласть будет содержать Испытание Восхождения.Войдите в любую карту.2Коллекция гадалкиНа карте появится "Сундук гадалки", из которого выпадают гадальные карты. Гадальные карты ограничены теми, которые доступны для конкретной карты.Войдите в любую карту.2Потерянные картыВозле портала и машины картоходца на земле будут лежать 6 случайных карт 1 уровня.Войдите в Обитель грехов — уровень 1 (Акт 2) или Обитель грехов — уровень 1 (Акт 7).3РазведчикПосле победы над бродячим изгнанником появится боевой отряд.Победите Бродячего изгнанника.1Ремесло КаландрыИз монстра выпадет редкий предмет и три отражённые копии этого же предмета.Победите случайного монстра.3Соблазнительные ловушкиОбласть содержит шесть дополнительных ларцов.Войти на любую карту.3Урок охотникаВы получите свойства монстра на 60 секунд. Механика пророчества похожа на свойство предмета Охотник за головамиОхотник за головамиРеменьТребуется Уровень 40+(25-40) к максимуму здоровья+(40-55) к силе+(40-55) к ловкости+(50-60) к максимуму здоровья(20-30)% увеличение урона от ударов по редким монстрамКогда вы убиваете редкого монстра, вы получаете его свойства на 20 секунд(-ы)«Дух человека царит в пещере костей, учится и говорит через окна плоти. Сердце — лишь мясо. Человек — это голова». - Лавианга, советник Каома (Когда вы убиваете редкого монстра, вы получаете его свойства на 20 секунд(-ы)), только  работает дольше и один раз за пророчество.Убейте редкого монстра.3
+Цепочки пророчеств[]
+#invoke: Item table
+
+Отключенные пророчества[]
+ПредметНаградаЗадачаСтоимостьпечати16x16pxКлад императораС Изария выпадет ещё один Ключ от сокровищницыКлюч от сокровищницыЭтот предмет открывает сундук с сокровищами Изаро внутри лабиринта. Предмет выпадет на землю при выходе из лабиринта..Убейте Изария в Лабиринте.1Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Хаку.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Катерины.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Эльпидона.2Мастеру нужна помощьРасположение и репутация, полученные за это задание, повышаются на 100%.Выполнить задание Фотиса.216x16pxБлагодарный мастерУтраивает репутацию и расположение, получаемые за выполнение задания. Бонус дополняется бонусом ежедневного задания.Завершите задание любого мастера.2Пустое обещаниеУбейте Проходчика и с него выпадет Рука помощиРука помощиПосох судьиВоинский посохКачество: +20%Физический урон: 87.6-163.2Шанс критического удара: 6.50%Атак в секунду: 1.30Дальность оружия: 13Требуется Уровень 68, 113 Сила, 113 Инт+20% шанс блокировать урон от чар с посохом в рукахРазмещённые камни усилены Большим эхом магии 30 уровня(120-160)% увеличение урона от чар50% увеличение максимума маны«Ударить по рукам — значит удвоить свою силу». - Джабари, царский советник.Убейте редкого Проходчика на одной из следующих локаций:
+Карта грота
+Карта жеоды
+Карта подземной реки2Старые распри IIН/ДН/Д5Старые распри IIIН/ДKill King Kaom while wearing one of Lioneye's items.6Старые распри IVDrops Взгляд ХинекорыВзгляд ХинекорыАмулет с ониксомТребуется Уровень 20+(10-16) ко всем характеристикам+(600-1000) к меткости+(6-10)% шанс подавить урон от чар+(6-10)% шанс подавить урон от чарНе может быть ослеплёнПомни прошлое, ожидай будущее..Kill Malachai while wearing one of Victario's items7КузнецПосле смерти Хиллока с него выпадет НаковальняНаковальняАмулет с янтаремТребуется Уровень 45+(20-30) к силе8% шанс блокировать урон от атак10% снижение скорости атаки10% снижение скорости сотворения чар+(400-500) к бронеДает +(34-48) здоровья, когда вы блокируете ударДает +(18-24) маны, когда вы блокируете удар+3% к максимальному шансу блокировать урон от атакОтражает от 240 до 300 физического урона атакующим при блокеСтойкость куется на наковальне веры..Убейте Хиллока в локации Сумрачное взморье Акт 12Старые распри IН/ДН/Д4
+История изменений[]
+
+
+Версия
+
+Изменения
+
+
+3.8.0
+
+Пророчества, создающие бури в областях, больше не будут срабатывать во владениях Создателя или во время самых трудных версий схваток с Древним.
+
+
+3.7.0
+
+Предметы, выпадающие исключительно при убийстве монстров, созданных пророчествами, теперь могут выпасть при убийстве любых монстров пророчеств, а не только малой их части.
+
+
+3.5.0
+
+Скорректированы шансы появления многих пророчеств.
+Теперь вы можете завершать звенья многих цепочек пророчеств на различных картах.
+Активация пророчеств, которые срабатывают на картах, больше не привязана к конкретным картам. Другими словами, если вы открываете карту, на которой может сработать пророчество, и этого не происходит, то оно сможет сработать в следующий раз при открытии карты. Ранее если пророчество не срабатывало на конкретной карте, то оно не срабатывало вообще.
+Пророчества, ранее вызывавшие появление одного из старых мастеров, теперь будут вызывать появление одного из новых.
+
+
+3.0.2
+
+Пророчество Моровая Пасть V теперь можно завершить в Кристальной жиле и на карте Кристальной шахты.
+
+
+3.0.0
+
+Сложности убраны, в связи с этим отключено повышение стоимости запечатывания пророчества.
+Цепочку пророчеств "Старые распри" больше нельзя получить у Навали. Если ваш персонаж находится в процессе выполнения этой цепочки, вы сможете её завершить. Уникальный амулет Взгляд Хинекоры теперь имеет маленький шанс выпадения с любого врага из пророчества.
+
+
+2.4.0c
+
+Повышена частота выпадения Серебряных монет
+
+
+2.4.0
+
+В основную игру добавлена система пророчеств (ранее бывшая лигой испытаний). Теперь вы можете найти и спасти Навали в области Склон.
+Вы можете пригласить Навали в убежище, она не считается за мастера и не будет занимать его место.
+При получении пророчеств у Навали в убежище, используемая сложность будет определяться на основании последней сложности, на которой был ваш персонаж в момент нахождения в Сумрачном взморье.
+Поскольку пророчества теперь не являются основной лигой, серебряные монеты будут выпадать реже.
+Стоимость запечатывания пророчеств немного снижена.
+Снижен самый высокий уровень, который требовался для появления некоторых пророчеств.
+Пророчество “Забытые солдаты” в Обычном мире теперь легче выполнить.
+Снижен максимальный уровень некоторых Пророчеств, для исполнения которых нужно убить определенных редких монстров.
+
+
+2.3.2
+
+Открыта цепочка пророчеств Запределье
+Если на область могут подействовать несколько пророчеств, то игра теперь лучше выбирает одно из них.
+Улучшены визуальные эффекты Нестабильной книги, которую создаёт Инья, Невыносимый шёпот в битве с Бледным советом, чтобы было понятно, когда она взорвётся.
+Уведомление о провале миссии больше не выводится в центре экрана, если вы вошли в область, в которой не смогли выполнить миссию.
+Пророчества Навали теперь перестают произноситься, если начал говорить другой персонаж или Навали рассказывает новое пророчество.
+Машина картоходца больше не уничтожает пророчество, если вы отменили создание карты.
+Пророчество Завоеватель больше не активируется в областях, в которых не может появиться босс вторжения.
+Сообщения о завершении или провале задания теперь исчезают, если вы перезашли в область.
+Эхо ваал теперь перенаправляет свою Волну мороза перед каждым использованием.
+
+
+2.3.1
+
+Добавлены 2 пророчества и 1 новая цепочка пророчеств.
+Пророчество на область ваал теперь срабатывает в первой же зоне, в которой может быть зона ваал.
+Снижена стоимость на печать пророчеств с уникальными и судьбоносными предметами. Снижена частота их появления на высоких уровнях.
+Снижена частота появления некоторых пророчеств, чтобы снизить количество возвращений в уже пройденные области.
+Навали больше не даёт пророчество Клад императора, поскольку по задумке игроки должны были ходить только с 1 таким пророчеством.
+Некоторые пророчества больше не появляются в “проблемных” уникальных областях.
+x Серебряная монета Серебряные монеты {{{3}}} больше не будут привязаны к монстрам, которые не оставляют предметов или используют умения-самоубийства.
+Порталы иномирья от пророчества Таинственные чужаки будут закрываться после завершения пророчества.
+Пророчество Губительная жадность больше недоступно в обычном мире.
+Исправлена ошибка, которая позволяла игрокам активировать последнее пророчество цепочки и получить его ещё раз, пока они его не завершили.
+Исправлена ошибка с пророчеством, которая позволяла получить больше гадальных карт, чем полагалось.
+
+
+2.3.0
+
+Добавлено в игру вместе с Лигой Пророчество.
+
+vteПредметыАксессуары
+Амулеты
+Пояса
+Кольца
+Колчаны
+Доспехи
+Нательные доспехи
+Обувь
+Перчатки
+Шлемы
+Щиты
+Оружие
+Топоры
+Луки
+Когти
+Кинжалы
+Булавы
+Скипетры
+Посохи
+Мечи
+Жезлы
+Удочки
+Другое
+Валюта
+Флаконы
+Самоцветы
+Самоцветы Бездны
+Карты
+Обрывки карт
+Гадальные карты
+Пророчества
+
+
+
+
+
+				
+				
+					
+	
+		
+			Категории					
+		
+							
+	
+		
+			Категории
+						
+	Пророчества
+	
+
+		
+							
+					Добавить категорию
+				
+					
+			
+			
+			Отмена
+			Сохранить
+		
+	
+					
+	
+						
+		
+			Языки					
+		
+							English
+					
+	
+
+												
+		Материалы сообщества доступны в соответствии с условиями лицензии CC BY-NC-SA 3.0, если не указано иное.	
+					
+									
+			
+							
+
+		
+
+	
+				
+		
+
+
+					
+		
+	
+		
+		Advertisement
+	
+		
+	
+		
+			Fan Feed
+			
+				
+											
+							
+								More Path of Exile Wiki
+							
+							
+																	
+										
+											1
+											Рецепты торговцев
+										
+									
+																	
+										
+											2
+											Уникальные предметы
+										
+									
+																	
+										
+											3
+											Список уникальных нательных доспехов
+										
+									
+															
+						
+																
+						
+										
+					
+				
+
+				
+					
+					
+					
+					
+					
+				
+
+				
+					
+					
+					
+					
+					
+						
+							Explore Wikis						
+						
+															
+									
+										
+										
+										The Elder Scrolls Wiki
+										
+									
+								
+															
+									
+										
+										
+										Террария вики
+										
+									
+								
+													
+					
+				
+			
+		
+	
+
+	
+			
+	
+		
+							
+					
+											
+				
+						
+			Наши ресурсы
+	
+	
+	
+			
+							
+											
+	Fandom
+									
+							
+											
+	D&D Beyond
+									
+							
+											
+	Cortex RPG
+									
+							
+											
+	Muthead
+									
+							
+											
+	Futhead
+									
+							
+											
+	Fanatical
+									
+					
+	
+			
+			В социальных сетях
+	
+	
+	
+			
+							
+											
+	
+									
+							
+											
+	
+									
+							
+											
+	
+									
+					
+	
+		
+		
+			
+			Обзор
+	
+	
+	
+			
+							
+											
+	Что такое Фэндом?
+									
+							
+											
+	О нас
+									
+							
+											
+	Вакансии
+									
+							
+											
+	В прессе
+									
+							
+											
+	Связаться с нами
+									
+							
+											
+	Условия использования
+									
+							
+											
+	Конфиден­циальность
+									
+							
+											
+	Общая карта сайта
+									
+							
+											
+	Локальная карта сайта
+									
+					
+	
+		
+		
+			
+			Сообщество
+	
+	
+	
+			
+							
+											
+	Вики Сообщества
+									
+							
+											
+	Поддержка
+									
+							
+											
+	Справка
+									
+							
+											
+	Запретить продажу данных
+									
+					
+	
+			
+			Реклама на сайте
+	
+	
+	
+			
+							
+											
+	Медиа-кит
+									
+							
+											
+	Fandomatic
+									
+					
+	
+		
+		
+			
+			Приложения Фэндома
+	
+			Оставайтесь в курсе всего происходящего на ваших любимых сообществах.	
+	
+	
+			
+	
+	
+			
+		
+
+	
+			
+							
+											
+	
+									
+							
+											
+	
+									
+					
+	
+			
+	
+	
+			
+		
+
+	
+			
+							
+											
+	
+									
+							
+											
+	
+									
+					
+	
+		
+	
+	
+		Path of Exile Wiki — это сообщество Фэндома на портале Видеоигры.
+
+		
+	
+		Мобильная версия	
+
+	
+
+
+	
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"1.240","walltime":"1.464","ppvisitednodes":{"value":6347,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1000000},"postexpandincludesize":{"value":2021380,"limit":2097152},"templateargumentsize":{"value":4921,"limit":2097152},"expansiondepth":{"value":6,"limit":40},"expensivefunctioncount":{"value":0,"limit":100},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":70,"limit":5000000},"timingprofile":["100.00%  337.828      1 -total"," 37.04%  125.120      8 Шаблон:Query_base_items"," 28.27%   95.493      1 Шаблон:Base_item"," 18.20%   61.483      1 Шаблон:Query_base_item","  5.91%   19.964      3 Шаблон:Il","  3.87%   13.076      1 Шаблон:Navbox_Items","  3.25%   10.995      1 Шаблон:Navbox","  3.09%   10.423      1 Шаблон:Item_table","  1.11%    3.742      1 Шаблон:For","  0.78%    2.650     10 Шаблон:Version_history_table_row"]},"scribunto":{"limitreport-timeusage":{"value":"0.188","limit":"7.000"},"limitreport-memusage":{"value":9617460,"limit":52428800},"limitreport-logs":"table#1 {\n  0.00324,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,items._pageName=prophecies._pageName\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 5,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"prophecies\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\" \\\n AND items.name LIKE \\\"%Мастеру%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.00406,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,_pageData._pageID=items._pageID\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 8,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"_pageData\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"\\\n     AND _pageData._categories__full LIKE \\\"%Пророчества_ремесла%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.02032,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,items._pageName=prophecies._pageName\",\n    [\"limit\"] = \"100\",\n    [\"offset\"] = 57,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"prophecies\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\" \\\n AND (prophecies.prediction_text LIKE \\\"%пока у тебя есть%\\\"\\\n OR prophecies.prediction_text LIKE \\\"%победишь%с помощью%\\\")) AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.00384,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,_pageData._pageID=items._pageID\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 6,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"_pageData\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"\\\n     AND _pageData._categories__full LIKE \\\"%Пророчества_с_бурями%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.00398,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,_pageData._pageID=items._pageID\",\n    [\"limit\"] = \"100\",\n    [\"offset\"] = 8,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"_pageData\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"\\\n     AND _pageData._categories__full LIKE \\\"%Пророчества_на_выпадение_уникального_предмета%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.00404,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,_pageData._pageID=items._pageID\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 9,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"_pageData\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"\\\n     AND _pageData._categories__full LIKE \\\"%Пророчества_на_выпадение_валюты%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.00802,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,_pageData._pageID=items._pageID\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 33,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"_pageData\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"\\\n     AND _pageData._categories__full LIKE \\\"%Пророчества_без_наград%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.004,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,_pageData._pageID=items._pageID\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 10,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"_pageData\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"\\\n     AND _pageData._categories__full LIKE \\\"%Пророчества_с_прочими_наградами%\\\") AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.01438,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID,items.release_version=versions.version,items._pageName=prophecies._pageName\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 48,\n    [\"orderBy\"] = \"items.required_level_range_maximum,items.name\",\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n      \"versions\",\n      \"prophecies\",\n    },\n    [\"where\"] = \"items.rarity_id = \\\"normal\\\" AND items.drop_enabled = true AND (items.release_version IS NULL OR items.release_version IS NOT NULL AND versions.release_date \u003C 20211118062606) AND (items.base_item=\\\"Пророчество\\\"  \\\n AND (items.name LIKE \\\"% %I\\\" OR items.name LIKE \\\"% %V\\\")) AND items._pageNamespace IN (0,10016)\",\n  },\n}\ntable#1 {\n  0.00426,\n  table#2 {\n    [\"fields\"] = table#3 {\n      \"items._pageID=items._pageID\",\n      \"items._pageName=items._pageName\",\n      \"items.name=items.name\",\n      \"items.inventory_icon=items.inventory_icon\",\n      \"items.html=items.html\",\n      \"items.size_x=items.size_x\",\n      \"items.size_y=items.size_y\",\n      \"prophecies.reward=prophecies.reward\",\n      \"prophecies.objective=prophecies.objective\",\n      \"prophecies.seal_cost=prophecies.seal_cost\",\n    },\n    [\"groupBy\"] = \"items._pageID\",\n    [\"join\"] = \"items._pageID=prophecies._pageID\",\n    [\"limit\"] = 500000,\n    [\"offset\"] = 12,\n    [\"tables\"] = table#4 {\n      \"items\",\n      \"prophecies\",\n    },\n    [\"where\"] = \"items.base_item=\\\"Пророчество\\\" AND items.drop_enabled=false AND items._pageNamespace IN (0,10016)\",\n  },\n}\n"},"cachereport":{"timestamp":"20211118062607","ttl":3600,"transientcontent":true}}});});
+
+(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":387});});
+	
+		
+				
+		FandomShop
+	
+	
+		Newsletter
+	
+	
+		Join Fan Lab
+	
+
+			
+							
+		
+	
+
+	
+		
+			
+				
+					
+				
+				
+					
+						
+					
+				
+			
+		
+	
+
+.st8{opacity:.5}
