@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"strings"
 
@@ -60,7 +59,7 @@ func GetInfo() {
 	// for regex.MatchString(tt) {
 	// 	tt = regex.ReplaceAllString(tt, "\n")
 	// }
-	err = ioutil.WriteFile("output.txt", []byte(tt), 0644)
+	err = os.WriteFile("output.txt", []byte(tt), 0644)
 	if err != nil {
 		panic(err)
 	}
